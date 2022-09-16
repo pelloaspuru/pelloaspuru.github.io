@@ -7,3 +7,7 @@ index.md configures the front page of the website
 publication.md, about.md and category.html configure the remaining of the website pages.
 
 _config.yml changes the sidebar title and subtitle.
+
+pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
+
+ pelloaspuru.github.io/_includes/sidebar.html to change/hide the list of pages in the sidebar, allows to add picture etc.
