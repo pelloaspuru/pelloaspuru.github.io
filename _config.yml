@@ -17,7 +17,7 @@ highlighter:      rouge
 title:            "Xiaozhou's Notes"
 tagline:          ''
 description:      ''
-url:              https://yangxiaozhou.github.io
+url:              https://pelloaspuru.github.io
 baseurl:          ''
 
 author:
@@ -30,7 +30,7 @@ paginate_path:    "/blog/page:num/"
 # version:          2.1.0
 
 github:           
-  repo:           https://github.com/yangxiaozhou/yangxiaozhou.github.io
+  repo:           https://github.com/pelloaspuru/pelloaspuru.github.io
 
 plugins: 
   - jekyll-paginate
