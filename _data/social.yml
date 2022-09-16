@@ -1,23 +1,29 @@
 email:
-  id: 'xiaozhou.yang@u.nus.edu'
+  id: 'pello.aspuru@cemfi.edu.es'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa fa-envelope'
 
-linkedin:
-  id: 'yangxiaozhou'
-  href: 'https://www.linkedin.com/in/'
-  title: 'Linkedin'
-  fa-icon: 'fab fa-linkedin'
+#linkedin:
+#  id: 'pellolopezdemunainaspuru'
+#  href: 'https://www.linkedin.com/in/'
+#  title: 'Linkedin'
+#  fa-icon: 'fab fa-linkedin'
 
 github:
-  id: 'YangXiaozhou'
+  id: 'pelloaspuru'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fab fa-github'
 
-youtube:
-  id: 'a315345751'
-  href: 'https://www.youtube.com/user/'
-  title: YouTube
-  fa-icon: 'fab fa-youtube'
+#youtube:
+#  id: 'a315345751'
+#  href: 'https://www.youtube.com/user/'
+#  title: YouTube
+#  fa-icon: 'fab fa-youtube'
+
+twitter:
+  id: 'pelloaspuru'
+  href: 'https://www.twitter.com/user/'
+  title: Twitter
+  fa-icon: 'fab fa-twitter'
