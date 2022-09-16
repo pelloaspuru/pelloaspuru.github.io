@@ -2,12 +2,14 @@ My personal website hosted at pelloaspuru.github.io
 
 Build with [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com).
 
-index.md configures the front page of the website
+Some notes
 
-publication.md, about.md and category.html configure the remaining of the website pages.
+- index.md configures the front page of the website
 
-_config.yml changes the sidebar title and subtitle.
+- publication.md, about.md and category.html configure the remaining of the website pages.
 
-pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
+- _config.yml changes the sidebar title and subtitle.
 
- pelloaspuru.github.io/_includes/sidebar.html to change/hide the list of pages in the sidebar, allows to add picture etc.
+- pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
+
+- pelloaspuru.github.io/_includes/sidebar.html to change/hide the list of pages in the sidebar, allows to add picture etc.
