@@ -1,9 +1,9 @@
 # Dependencies
 
-markdown: kramdown
-kramdown: 
-  input: GFM
-  toc_levels: 1..2
+#markdown: kramdown
+#kramdown: 
+#  input: GFM
+#  toc_levels: 1..2
   # parse_block_html: true
 
 # markdown: CommonMarkGhPages
@@ -14,9 +14,9 @@ highlighter:      rouge
 # permalink:        pretty
 
 # Setup
-title:            "Pello's website"
+title:            "Pello Aspuru"
 tagline:          ''
-description:      ''
+description:      'PhD candidate, CEMFI'
 url:              https://pelloaspuru.github.io
 baseurl:          ''
 
