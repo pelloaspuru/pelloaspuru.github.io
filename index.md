@@ -3,16 +3,23 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-- brewing
-- 
+- Coal (main)
+- Procurement
+- Nevada ballot
+- South Africa
+- Texas 
+- Oceans
+- Master Thesis
+- ...
 
 ## Publications
 -  LOL
--  
+-  ...
 
 ## Policy work and others
-- mmmmm
-- 
+- Housing
+- Airports
+- ...
 
 
 ---
