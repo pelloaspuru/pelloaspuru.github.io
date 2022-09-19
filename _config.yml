@@ -20,8 +20,8 @@ description:      'PhD candidate, CEMFI'
 url:              https://pelloaspuru.github.io
 baseurl:          ''
 
-# For changing favicon.
-authorimage = "/photos/favicon_lemon.ico"
+# For changing favicon (does not work)
+# authorimage = "/photos/favicon_lemon.ico"
 
 author:
   name:           'Pello Aspuru'
