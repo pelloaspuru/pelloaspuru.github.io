@@ -13,3 +13,5 @@ Some notes
 - pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
 
 - pelloaspuru.github.io/_includes/sidebar.html to change/hide the list of pages in the sidebar, allows to add picture etc.
+
+- /public/ hosts favicons
