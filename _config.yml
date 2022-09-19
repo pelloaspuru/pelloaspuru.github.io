@@ -15,10 +15,13 @@ highlighter:      rouge
 
 # Setup
 title:            "Pello Aspuru"
-tagline:          ''
+tagline:          'CEMFI'
 description:      'PhD candidate, CEMFI'
 url:              https://pelloaspuru.github.io
 baseurl:          ''
+
+# For changing favicon.
+authorimage = "/photos/favicon_lemon.ico"
 
 author:
   name:           'Pello Aspuru'
