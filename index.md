@@ -2,33 +2,36 @@
 layout: default
 title: Home
 ---
-# Working papers and work in progress
+# Working papers
 
 ## Coal
 
-bllbalblablalb
+blablabla
 
-- Coal (main)
-- Procurement
+## Procurement
+
+blablabla
+
+## Platforms
+
+blablabla
+
+
+# Work in progress
 - Nevada ballot
 - South Africa
 - Texas 
 - Oceans
-- Master Thesis
 - ...
-
-# Work in progress
-- ...
-
-# Publications
--  LOL
--  ...
 
 # Teaching
 - Regulation and competition policy
 - Uncertainty and information
 
-## Policy work and others
+# Policy work 
+- CNMC book
+
+# Press
 - Housing
 - Airports
 - ...
