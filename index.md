@@ -4,15 +4,15 @@ title: Home
 ---
 # Working papers
 
-## Coal
+### Coal
 
 blablabla
 
-## Procurement
+### Procurement
 
 blablabla
 
-## Platforms
+### Platforms
 
 blablabla
 
