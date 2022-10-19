@@ -2,7 +2,12 @@
 layout: default
 title: Home
 ---
-## Working papers and work in progress
+# Working papers and work in progress
+
+## Coal
+
+bllbalblablalb
+
 - Coal (main)
 - Procurement
 - Nevada ballot
@@ -12,9 +17,16 @@ title: Home
 - Master Thesis
 - ...
 
-## Publications
+# Work in progress
+- ...
+
+# Publications
 -  LOL
 -  ...
+
+# Teaching
+- Regulation and competition policy
+- Uncertainty and information
 
 ## Policy work and others
 - Housing
