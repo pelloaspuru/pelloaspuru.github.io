@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+# Welcome!
+
+I am a PhD candidate in economics at CEMFI.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+### References
+
+- 
+
 # Working papers
 
 ### Coal
@@ -28,10 +36,8 @@ blablabla
 - Regulation and competition policy
 - Uncertainty and information
 
-# Policy work 
+# Policy work and others
 - CNMC book
-
-# Press
 - Housing
 - Airports
 - ...
