@@ -12,34 +12,34 @@ I am a PhD student in economics at CEMFI.
 
 # Working papers
 
-### Coal
+### xxxx
 
 blablabla
 
-### Procurement
+### xxxxxxxxxx
 
 blablabla
 
-### Platforms
+### xxxx xxxxx
 
 blablabla
 
 
 # Work in progress
-- Nevada ballot
-- South Africa
-- Texas 
-- Oceans
+- xxxx xxxxxx
+- xxxxx xxxx
+- xxxxx 
+- xxxxxx
 - ...
 
 # Teaching
-- Regulation and competition policy
-- Uncertainty and information
+- xxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxx
 
 # Policy work and others
-- CNMC book
-- Housing
-- Airports
+- xxxxxx
+- xxxxxx
+- xxxxxx
 - ...
 
 
