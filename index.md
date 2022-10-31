@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome!
 
-I am a PhD candidate in economics at CEMFI.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+I am a PhD student in economics at CEMFI.
 
 ### References
 
