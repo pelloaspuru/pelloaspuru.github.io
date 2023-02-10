@@ -3,18 +3,18 @@ email:
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa fa-envelope'
-
-#linkedin:
-#  id: 'pellolopezdemunainaspuru'
-#  href: 'https://www.linkedin.com/in/'
-#  title: 'Linkedin'
-#  fa-icon: 'fab fa-linkedin'
-
+  
 github:
   id: 'pelloaspuru'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fab fa-github'
+
+linkedin:
+  id: 'pelloaspuru'
+  href: 'https://www.linkedin.com/in/'
+  title: 'Linkedin'
+  fa-icon: 'fab fa-linkedin'
 
 #youtube:
 #  id: 'a315345751'
