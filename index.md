@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 <p align="center">
-   <img width="200" height=auto src="/photos/PELLO (88).jpg"> [comment]: horizontal image
+   <img width="200" height=auto src="/photos/PELLO (88).jpg"> [//]: horizontal image
 </p>
 
-[comment]: <p align="center">
-[comment]:   <img width="200" height=auto src="/photos/PELLO (53).jpg"> [comment]: Vertical image
-[comment]: </p>
+[//]:  <p align="center">
+[//]:  <img width="200" height=auto src="/photos/PELLO (53).jpg"> [//]: Vertical image
+[//]: </p>
 
 # Welcome!
 
