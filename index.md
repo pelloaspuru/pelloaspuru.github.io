@@ -4,12 +4,8 @@ title: Home
 ---
 <p align="center">
    <img width="200" height=auto src="/photos/PELLO (88).jpg"> []: # horizontal image
+   [//]: # "<img width="200" height=auto src="/photos/PELLO (53).jpg"> []: # Vertical image"
 </p>
-
-
-[//]: #  <p align="center">
-[//]: #  <img width="200" height=auto src="/photos/PELLO (53).jpg"> []: # Vertical image
-[//]: # </p>
 
 
 # Welcome!
