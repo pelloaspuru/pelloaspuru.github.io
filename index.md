@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home
-classes: wide <!---  Expand the main content to the right, filling the space of what is normally occupied by the table of contents  --->
+
+<!---  Expand the main content to the right, filling the space of what is normally occupied by the table of contents  --->
+classes: wide 
 ---
 
 <p align="center">
