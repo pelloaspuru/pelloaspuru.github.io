@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+text-align: justify
 ---
 
 <p align="center">
