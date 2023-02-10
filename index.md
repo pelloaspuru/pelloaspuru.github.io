@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+![main pic](/photos/PELLO (53).jpg)
 ---
 # Welcome!
 
