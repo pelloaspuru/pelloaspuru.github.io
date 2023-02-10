@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-classes: wide 
+class: wide 
 ---
 
 <p align="center">
