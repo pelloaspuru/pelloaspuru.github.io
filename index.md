@@ -44,18 +44,21 @@ blablabla
 
 # Teaching
 
+&nbsp;&nbsp;&nbsp;&nbsp; 
 ### Regulation and competition policy. 
-   CEMFI graduate course. <br />
-   Teaching assistant for Professor Gerard Llobet. Fall 2022. <br />
-   Best CEMFI Teaching assistant 2022. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;   CEMFI graduate course. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;   Teaching assistant for Professor Gerard Llobet. Fall 2022. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;   Best CEMFI Teaching assistant 2022. <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 ### Regulation and competition policy. 
-CEMFI graduate course. <br />
-Teaching assistant for Professor Gerard Llobet. Fall 2021. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; CEMFI graduate course. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for Professor Gerard Llobet. Fall 2021. <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 ### Uncertainty and information. 
-CEMFI graduate course. <br />
-Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; CEMFI graduate course. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
 
 # Policy work and others
