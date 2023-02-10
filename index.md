@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 <p align="center">
-   <img width="200" height=auto src="/photos/PELLO (88).jpg"> []: # horizontal image
-   [//]: # "<img width="200" height=auto src="/photos/PELLO (53).jpg"> []: # Vertical image"
+   <img width="200" height=auto src="/photos/PELLO (88).jpg">
+   [//]: # <img width="200" height=auto src="/photos/PELLO (53).jpg"> 
 </p>
 
 
