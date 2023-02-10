@@ -4,6 +4,10 @@ Built with [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com).
 
 Some notes
 
+# _data
+
+Inside this files you can configure the social media buttons (twitter, linkedin, github etc.)
+
 - index.md configures the front page of the website
 
 - publication.md, about.md and category.html configure the remaining of the website pages.
@@ -12,6 +16,8 @@ Some notes
 
 - pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
 
-- pelloaspuru.github.io/_includes/sidebar.html to change/hide the list of pages in the sidebar, allows to add picture etc.
+# _includes
+
+- sidebar.html to change/hide the list of pages in the left sidebar, allows to add picture etc.
 
 - /public/ hosts favicons
