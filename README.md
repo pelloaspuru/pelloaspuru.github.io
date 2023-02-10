@@ -37,8 +37,10 @@ Inside this files you can configure the social media buttons (twitter, linkedin,
 ## css
 
 ### hyde.css
+- Delete `max-width: 40rem` to change the width of the main page?
 
-- `max-width: 40rem` to change the width of the main page.
+### poole.css
+- Delete `max-width: 38rem` to widen the main page?
 
 ## _config.yml 
 - changes the sidebar title and subtitle.
