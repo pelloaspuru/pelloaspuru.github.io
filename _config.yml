@@ -51,6 +51,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      classes: "wide"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
@@ -58,3 +59,4 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      classes: "wide"
