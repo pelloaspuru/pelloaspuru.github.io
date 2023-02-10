@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <p align="center">
-  <img width="460" height="300" src="/photos/PELLO (53).jpg">
+  <img width="460" height=auto src="/photos/PELLO (53).jpg">
 </p>
 
 [comment]: <img src="/photos/PELLO (53).jpg" alt="Pello" align="center" width="300" height=auto/> 
