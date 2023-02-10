@@ -12,8 +12,6 @@ Inside this files you can configure the social media buttons (twitter, linkedin,
 
 - publication.md, about.md and category.html configure the remaining of the website pages.
 
-- _config.yml changes the sidebar title and subtitle.
-
 - pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
 
 # _includes
@@ -21,3 +19,7 @@ Inside this files you can configure the social media buttons (twitter, linkedin,
 - sidebar.html to change/hide the list of pages in the left sidebar, allows to add picture etc.
 
 - /public/ hosts favicons
+
+## _config.yml 
+- changes the sidebar title and subtitle.
+- Default YAML values establishes the underlying characteristics of each page type.
