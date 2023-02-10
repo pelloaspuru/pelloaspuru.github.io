@@ -8,7 +8,8 @@ title: Home
    <!--- <img width="200" height=auto src="/photos/PELLO (53).jpg">  ---> <!---  vertical pic  --->
 </p>
 
-<br/><br/> <!---  Blank lines  --->
+<!---  Blank lines  --->
+<br/><br/> 
 
 # Welcome!
 
