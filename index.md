@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-   <img width="400" height=auto src="/photos/PELLO (88).jpg"> <!---  horizontal pic  --->
+   <img width="300" height=auto src="/photos/PELLO (88).jpg"> <!---  horizontal pic  --->
    <!--- <img width="200" height=auto src="/photos/PELLO (53).jpg">  ---> <!---  vertical pic  --->
 </p>
 
