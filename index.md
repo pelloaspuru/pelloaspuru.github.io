@@ -54,8 +54,8 @@ blablabla
   * Teaching assistant for Professor Gerard Llobet. Fall 2021. <br />
 
 ### Uncertainty and information. 
-  * CEMFI graduate course. <br />
-  * Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
+:— :—: —: CEMFI graduate course. <br />
+:— :—: —: Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
 
 # Policy work and others
