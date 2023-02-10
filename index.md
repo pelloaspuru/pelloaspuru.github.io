@@ -42,8 +42,12 @@ blablabla
 - ...
 
 # Teaching
-- xxxxxxxxxxxxxxx
-- xxxxxxxxxxxxxxx
+- Regulation and competition policy
+   - Teaching assistant for Professor Gerard Llobet. Best TA award. Fall 2021
+- Regulation and competition policy
+   - Teaching assistant for Professor Gerard Llobet. Fall 2021
+- Uncertainty and information
+   - Teaching assistant for Professor Guillermo Caruana. Winter 2021
 
 # Policy work and others
 - xxxxxx
