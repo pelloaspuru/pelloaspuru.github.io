@@ -161,7 +161,7 @@ a.sidebar-nav-item:active {
 @media (min-width: 48em) {
   .content {
     /*max-width: 40rem; */
-    max-width: 100rem;
+    max-width: 70rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
