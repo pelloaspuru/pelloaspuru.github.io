@@ -8,13 +8,7 @@ Some notes:
 
 # _data
 
-Inside this files you can configure the social media buttons (twitter, linkedin, github etc.)
-
-- index.md configures the front page of the website
-
-- publication.md, about.md and category.html configure the remaining of the website pages.
-
-- pelloaspuru.github.io/public/css/hyde.css changes sidebar characteristics
+- `social.yml` configures the social media buttons (twitter, linkedin, github etc.)
 
 # _includes
 
@@ -45,3 +39,9 @@ Inside this files you can configure the social media buttons (twitter, linkedin,
 ## _config.yml 
 - changes the sidebar title and subtitle.
 - Default YAML values establishes the underlying characteristics of each page type.
+
+## index.md 
+- configures the front page of the website. 
+
+## publication.md, about.md and category.html... 
+- configure the remaining of the website pages.
