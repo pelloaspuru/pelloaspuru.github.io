@@ -9,7 +9,7 @@ title: Home
 </p>
 
 <!---  Blank lines  --->
-<br/><br/> 
+<br/>
 
 # Welcome!
 
