@@ -60,3 +60,4 @@ defaults:
     values:
       layout: "page"
       classes: "wide"
+      social-share: true # add social media sharing buttons to all blog posts
