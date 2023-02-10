@@ -16,13 +16,13 @@ text-align: justify
 
 <h1 align="center">
 Welcome!
-</h1>
+<h1>
 
 I am a PhD student in economics at CEMFI.
 
 <h1 align="center">
 References
-</h1>
+<h1>
 
 - 
 
