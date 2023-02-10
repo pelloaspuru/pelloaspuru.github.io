@@ -164,6 +164,7 @@ a.sidebar-nav-item:active {
     max-width: 70rem;
     margin-left: 20rem;
     margin-right: 2rem;
+    text-align: justify;
   }
 }
 
