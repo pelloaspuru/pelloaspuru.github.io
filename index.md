@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Home
-![main pic](/photos/PELLO (53).jpg)
 ---
+![main pic](/photos/PELLO (53).jpg)
+
 # Welcome!
 
 I am a PhD student in economics at CEMFI.
