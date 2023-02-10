@@ -43,15 +43,18 @@ blablabla
 
 # Teaching
 
-### Regulation and competition policy. CEMFI graduate course.
-   Teaching assistant for Professor Gerard Llobet. Fall 2022.
-   Best CEMFI Teaching assitance award 2022.
+### Regulation and competition policy. 
+CEMFI graduate course.
+Teaching assistant for Professor Gerard Llobet. Fall 2022.
+Best CEMFI Teaching assitant 2022.
 
-### Regulation and competition policy. CEMFI graduate course.
-   Teaching assistant for Professor Gerard Llobet. Fall 2021.
+### Regulation and competition policy. 
+CEMFI graduate course.
+Teaching assistant for Professor Gerard Llobet. Fall 2021.
 
-### Uncertainty and information. CEMFI graduate course.
-   Teaching assistant for Professor Guillermo Caruana. Winter 2021.
+### Uncertainty and information. 
+CEMFI graduate course.
+Teaching assistant for Professor Guillermo Caruana. Winter 2021.
 
 
 # Policy work and others
