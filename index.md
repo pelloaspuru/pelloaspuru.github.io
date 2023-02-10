@@ -2,12 +2,13 @@
 layout: default
 title: Home
 ---
+
 <p align="center">
    <img width="400" height=auto src="/photos/PELLO (88).jpg">
    <!--- <img width="200" height=auto src="/photos/PELLO (53).jpg">  --->
 </p>
 
-
+#
 # Welcome!
 
 I am a PhD student in economics at CEMFI.
