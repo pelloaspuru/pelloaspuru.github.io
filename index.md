@@ -2,9 +2,11 @@
 layout: default
 title: Home
 ---
+[comment]: <
 <p align="center">
   <img width="200" height=auto src="/photos/PELLO (53).jpg">
 </p>
+>
 
 [comment]: <img src="/photos/PELLO (53).jpg" alt="Pello" align="center" width="300" height=auto/> 
 
