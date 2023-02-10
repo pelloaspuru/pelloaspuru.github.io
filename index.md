@@ -9,6 +9,7 @@ title: Home
 </p>
 
 <br/><br/> <!---  Blank lines  --->
+
 # Welcome!
 
 I am a PhD student in economics at CEMFI.
