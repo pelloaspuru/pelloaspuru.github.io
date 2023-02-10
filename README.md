@@ -33,7 +33,8 @@ This folder contains the profile pictures for the website.
 ## css
 
 ### hyde.css
-- Set `max-width: 100rem;` to change the width of the main page.
+- Set `max-width: 70rem;` to change the width of the main page.
+- Set `text-align: justify;` to justify the main text body of the page.
 
 ### poole.css
 - Set `max-width: 50rem;` to widen the main page.
