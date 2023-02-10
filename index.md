@@ -11,8 +11,12 @@ text-align: justify
    <!--- <img width="200" height=auto src="/photos/PELLO (53).jpg">  ---> <!---  vertical pic  --->
 </p>
 
-<!---  Blank lines  --->
+<!---  Blank line  --->
 <br/>
+
+<p style="text-align: center;">
+# Welcome!
+</p>
 
 # Welcome!
 
