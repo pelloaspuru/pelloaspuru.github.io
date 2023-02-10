@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img src="/photos/PELLO (53).jpg" alt="Pello" class="inline"/> 
+<img src="/photos/PELLO (53).jpg" alt="Pello" class="inline" width: 400px height: auto/> 
 
 # Welcome!
 
