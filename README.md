@@ -26,6 +26,8 @@ Some notes:
 
 # photos
 
+This folder contains the profile pictures for the website.
+
 # public
 
 ## css
