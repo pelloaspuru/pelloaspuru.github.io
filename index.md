@@ -4,6 +4,7 @@ title: Home
 text-align: justify
 ---
 
+<!---  Picture on the top of the website  --->
 <p align="center">
    <!--- <img width="300" height=auto src="/photos/PELLO (88).jpg"> ---> <!---  horizontal pic  --->
    <!--- <img width="400" height=auto src="/photos/PELLO (82).jpg"> ---> <!---  horizontal pic, close face  --->
