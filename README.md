@@ -12,9 +12,9 @@ Some notes:
 
 # _includes
 
-- sidebar.html to change/hide the list of pages in the left sidebar, allows to add picture etc.
+- `sidebar.html` to change/hide the list of pages in the left sidebar, allows to add picture etc.
 
-- /public/ hosts favicons
+- `/public/` hosts favicons
 
 # _layouts
 
