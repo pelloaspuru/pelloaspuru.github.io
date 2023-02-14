@@ -14,8 +14,6 @@ Some notes:
 
 - `sidebar.html` to change/hide the list of pages in the left sidebar, allows to add picture etc.
 
-- `/public/` hosts favicons
-
 # _layouts
 
 - 
@@ -29,6 +27,8 @@ Some notes:
 This folder contains the profile pictures for the website.
 
 # public
+
+- `/public/` hosts favicons
 
 ## css
 
