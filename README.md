@@ -6,6 +6,8 @@ Some notes:
 
 # .idea
 
+- 
+
 # _data
 
 - `social.yml` configures the social media buttons (twitter, linkedin, github etc.)
@@ -20,17 +22,23 @@ Some notes:
 
 # _site
 
+- 
+
 # assets
+
+- 
 
 # photos
 
-This folder contains the profile pictures for the website.
+- This folder contains the profile pictures for the website.
 
 # public
 
-- `/public/` hosts favicons
+- Hosts favicons
 
 ## css
+
+- 
 
 ### hyde.css
 - Set `max-width: 70rem;` to change the width of the main page.
