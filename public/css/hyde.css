@@ -34,7 +34,7 @@
 /* Define a new type of font: Rotis Semi Sans (rss) */
 
 @font-face {
-    font-family: "rss";
+    font-family: "RotisSemiSans";
     src: url('fonts/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
     font-weight: normal;
 }
