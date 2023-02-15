@@ -31,6 +31,14 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* Define a new type of font: Rotis Semi Sans (rss) */
+
+@font-face {
+    font-family: "rss";
+    src: url('fonts/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
+    font-weight: normal;
+}
+
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
