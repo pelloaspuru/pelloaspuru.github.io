@@ -14,7 +14,23 @@ Some notes:
 
 # _includes
 
-- `sidebar.html` to change/hide the list of pages in the left sidebar, allows to add picture etc.
+### archives.html 
+
+### collecttags.html 
+
+### disqus_comments.html 
+
+### google_analytics.html 
+
+### head.html 
+
+### mathjax.html 
+
+### sidebar.html 
+
+- to change/hide the list of pages in the left sidebar, allows to add picture etc.
+
+### social_links.html 
 
 # _layouts
 
