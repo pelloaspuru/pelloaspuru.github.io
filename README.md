@@ -24,6 +24,8 @@ Some notes:
 
 ### head.html 
 
+- 
+
 ### mathjax.html 
 
 ### sidebar.html 
