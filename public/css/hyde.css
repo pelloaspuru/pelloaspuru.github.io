@@ -35,7 +35,8 @@
 
 @font-face {
     font-family: "RotisSemiSans";
-    src: url('../fonts/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
+    src: url('fonts/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
+    font-weight: normal;
     /*font-weight: normal; */
 }
 
