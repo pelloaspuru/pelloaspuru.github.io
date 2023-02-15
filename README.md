@@ -61,6 +61,7 @@ Some notes:
 ### hyde.css
 - Set `max-width: 70rem;` to change the width of the main page.
 - Set `text-align: justify;` to justify the main text body of the page.
+- Change font of sidebar title in `font-family: 'Abril Fatface', serif;`. Search in fonts.google.com
 
 ### poole.css
 - Set `max-width: 50rem;` to widen the main page.
