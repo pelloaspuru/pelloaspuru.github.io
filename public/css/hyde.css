@@ -36,7 +36,7 @@
 @font-face {
     font-family: "RotisSemiSans";
     src: url('fonts/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
-    font-weight: normal;
+    font-weight: sans-serif;
     /*font-weight: normal; */
 }
 
@@ -92,7 +92,7 @@ html {
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
   font-family: 'RotisSemiSans'; 
-  font-weight:normal;
+  font-weight:sans-serif;
   font-size: 3.25rem;
 }
 
