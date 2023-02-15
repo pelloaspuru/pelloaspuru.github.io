@@ -31,7 +31,7 @@
  * Update the foundational and global aspects of the page.
  */
 
-/* Define a new type of font: Rotis Semi Sans (rss) */
+/* Define a new type of font: Rotis Semi Sans */
 
 @font-face {
     font-family: "RotisSemiSans";
@@ -90,7 +90,7 @@ html {
   /* The following line changes the font type of the website title in the sidebar */
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
-  font-family: 'rss'; 
+  font-family: 'RotisSemiSans'; 
   font-size: 3.25rem;
 }
 
