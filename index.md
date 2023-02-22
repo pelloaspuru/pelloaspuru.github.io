@@ -15,7 +15,7 @@ text-align: justify
 <!---  Blank line  --->
 <br/>
 
-<h1 align="center">
+<h1 align="left">
 Welcome!
 </h1>
 
