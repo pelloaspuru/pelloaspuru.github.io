@@ -13,7 +13,7 @@ text-align: justify
 </p>
 
 <!---  Blank line  --->
-<br/>
+<!--- <br/> --->
 
 <h1 align="left">
 Welcome!
