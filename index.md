@@ -24,7 +24,7 @@ I am a PhD student in Economics at CEMFI.
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
 <!-- Social buttons: twitter, github, linkedin... -->
-{% include social_links.html %}
+<!-- {% include social_links.html %} -->
 
 <!---  Blank line  --->
 <br/>
