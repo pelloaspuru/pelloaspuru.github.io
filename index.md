@@ -74,14 +74,18 @@ Work in Progress
 Teaching
 </h1>
 
-### Regulation and competition policy. 
+### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
 Best Teaching assistant award, 2022. <br />
 
-### Uncertainty and information. 
+### Uncertainty and Information. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
+
+### Empirical Methods for the Analysis of the Energy Transition.
+CEMFI summer school course. <br />
+Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 <!---  Blank line  --->
 <br/>
