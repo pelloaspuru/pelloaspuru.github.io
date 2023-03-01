@@ -3,7 +3,7 @@ layout: default
 title: Home
 text-align: justify
 <!---  For adding icons  --->
-<link rel="stylesheet" href="https://kit.fontawesome.com/f6e33c7792.css" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/f6e33c7792.js" crossorigin="anonymous"></script>
 ---
 
 <!---  Picture on the top of the website  --->
