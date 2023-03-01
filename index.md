@@ -25,7 +25,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 
 <!-- Social buttons: twitter, github, linkedin... -->
 
-[<img src="/icons/github.svg" style="float: left; padding: 20px 20px;" width="50" height="50">](https://twitter.com/pelloaspuru)
+[<img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="50" height="50">](https://twitter.com/pelloaspuru)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="/icons/twitter.svg" style="float: left;" width="50" height="50">](https://twitter.com/pelloaspuru)
 &nbsp;&nbsp;&nbsp;&nbsp;
