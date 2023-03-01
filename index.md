@@ -23,9 +23,9 @@ I am a PhD student in Economics at CEMFI.
 
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
-links:
-  - label: 'fontawesome::fa("envelope") Email'
-    url: "mailto:vincent.bagilet@columbiaa.edu"
+'fontawesome::fa("envelope") Email'
+url: "mailto:vincent.bagilet@columbiaa.edu"
+
   - label: 'fontawesome::fa("github") GitHub'
     url: "https://github.com/vincentbagileta"
 
