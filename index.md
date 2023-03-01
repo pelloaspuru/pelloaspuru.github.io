@@ -23,10 +23,8 @@ I am a PhD student in Economics at CEMFI.
 
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
-
 <!--brand icon-->
-<i class="fa-brands fa-github-square"></i>
+<img src="/icons/github.svg" width="50" height="50">
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
