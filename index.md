@@ -25,9 +25,9 @@ My main interests lie in the fields of industrial organization, energy/environme
 
 links:
   - label: '`r fontawesome::fa("envelope")` Email'
-    url: "mailto:vincent.bagilet@columbia.edu"
+    url: "mailto:vincent.bagilet@columbiaa.edu"
   - label: '`r fontawesome::fa("github")` GitHub'
-    url: "https://github.com/vincentbagilet"
+    url: "https://github.com/vincentbagileta"
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
