@@ -33,7 +33,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
-
+  
 <!---  Blank line  --->
 <br/>
 
