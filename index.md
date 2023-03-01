@@ -25,7 +25,9 @@ My main interests lie in the fields of industrial organization, energy/environme
 
 <!-- Social buttons: twitter, github, linkedin... -->
 
-[<img src="/icons/github.svg" width="50" height="50">](https://twitter.com/pelloaspuru)&emsp;[<img src="/icons/twitter.svg" width="50" height="50">](https://twitter.com/pelloaspuru)  &ensp; &ensp; [<img src="/icons/envelope-solid.svg" width="50" height="50">](mailto:pello.aspuru@cemfi.edu.es) &ensp; &ensp; [<img src="/icons/file-solid.svg" width="50" height="50">](https://twitter.com/pelloaspuru) [<img src="/icons/linkedin.svg" width="50" height="50">](https://twitter.com/pelloaspuru)
+<div style="text-align: left"> 
+[<img src="/icons/github.svg" width="50" height="50">](https://twitter.com/pelloaspuru) &emsp; [<img src="/icons/twitter.svg" width="50" height="50">](https://twitter.com/pelloaspuru)  &ensp; &ensp; [<img src="/icons/envelope-solid.svg" width="50" height="50">](mailto:pello.aspuru@cemfi.edu.es) &ensp; &ensp; [<img src="/icons/file-solid.svg" width="50" height="50">](https://twitter.com/pelloaspuru) [<img src="/icons/linkedin.svg" width="50" height="50">](https://twitter.com/pelloaspuru)
+</div>
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
