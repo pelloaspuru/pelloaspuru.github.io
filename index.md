@@ -2,8 +2,6 @@
 layout: default
 title: Home
 text-align: justify
-<!---  For adding icons  --->
-<script src="https://kit.fontawesome.com/f6e33c7792.js" crossorigin="anonymous"></script>
 ---
 
 <!---  Picture on the top of the website  --->
@@ -24,6 +22,8 @@ Welcome!
 I am a PhD student in Economics at CEMFI.
 
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 
 <!--brand icon-->
 <i class="fa-brands fa-github-square"></i>
