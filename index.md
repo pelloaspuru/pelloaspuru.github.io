@@ -19,7 +19,7 @@ text-align: justify
 Welcome!
 </h1>
 
-I am a PhD student in Economics at [CEMFI](https://www.cemfi.es/).
+I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
