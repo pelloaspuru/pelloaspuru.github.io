@@ -49,8 +49,6 @@ References
 
 - X
 
-<a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" width="40" height="40" class="filter-green"></a>
-
 <!---  Blank line  --->
 <br/>
 
