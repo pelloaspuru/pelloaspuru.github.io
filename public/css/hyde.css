@@ -56,8 +56,8 @@ html {
 
 /*
  * Filter for svg icons
- *
  * Define filter.green for turning svg icons into green ?
+ * Check more: https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element
  */
 
 .filter-green{
