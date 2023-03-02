@@ -238,6 +238,16 @@ img {
   border-radius: 5px;
 }
 
+/*
+ * Filter for svg icons
+ * Define filter.green for turning svg icons into green ?
+ * Check more: https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element
+ */
+
+.filter-green{
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
