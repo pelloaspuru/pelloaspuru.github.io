@@ -66,6 +66,7 @@ Some notes:
 
 ### poole.css
 - Set `max-width: 50rem;` to widen the main page.
+- Define `.filter-green` as a filter to change colours of .svg icons.
 
 ## _config.yml 
 - changes the sidebar title and subtitle.
