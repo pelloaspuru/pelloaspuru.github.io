@@ -26,7 +26,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!-- Social buttons: twitter, github, linkedin... -->
 
 [<img src="/icons/github.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://github.com/pelloaspuru)
-[<img src="/icons/twitter.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://twitter.com/pelloaspuru)
+[<img src="/icons/twitter.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://twitter.com/pelloaspuru target="_blank")
 [<img src="/icons/envelope-solid.svg" style="float: left; margin-right: 30px;" width="40" height="40">](mailto:pello.aspuru@cemfi.edu.es)
 [<img src="/icons/file-solid.svg" style="float: left; margin-right: 30px;" width="40" height="40">](/documents/CV.pdf)
 [<img src="/icons/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/pelloaspuru)
