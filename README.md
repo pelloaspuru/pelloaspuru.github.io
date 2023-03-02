@@ -42,6 +42,15 @@ Some notes:
 
 - 
 
+# fonts
+
+- 
+
+# icons
+
+- Stores the `.svg` icons.
+- Search for icons in: `https://fontawesome.com/`
+
 # assets
 
 - 
