@@ -20,16 +20,15 @@ Welcome!
 </h1>
 
 I am a PhD student in Economics at CEMFI.
-
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
 <!-- Social buttons: twitter, github, linkedin... -->
 
-[<img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="50" height="50">](https://github.com/pelloaspuru)
-[<img src="/icons/twitter.svg" style="float: left; margin-right: 20px;" width="50" height="50">](https://twitter.com/pelloaspuru)
-[<img src="/icons/envelope-solid.svg" style="float: left; margin-right: 20px;" width="50" height="50">](mailto:pello.aspuru@cemfi.edu.es)
-[<img src="/icons/file-solid.svg" style="float: left; margin-right: 20px;" width="50" height="50">](/documents/CV.pdf)
-[<img src="/icons/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/pelloaspuru)
+[<img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="40" height="40">](https://github.com/pelloaspuru)
+[<img src="/icons/twitter.svg" style="float: left; margin-right: 20px;" width="40" height="40">](https://twitter.com/pelloaspuru)
+[<img src="/icons/envelope-solid.svg" style="float: left; margin-right: 20px;" width="40" height="40">](mailto:pello.aspuru@cemfi.edu.es)
+[<img src="/icons/file-solid.svg" style="float: left; margin-right: 20px;" width="40" height="40">](/documents/CV.pdf)
+[<img src="/icons/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/pelloaspuru)
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
