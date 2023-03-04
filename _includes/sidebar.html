@@ -15,6 +15,18 @@
       <!-- p starts a new paragraph -->
       <p class="lead">{{ site.description }}</p>
       <!-- <p class="lead">{{ -->
+      
+      <h1>
+        <!-- Add a profile picture in the sidebar -->
+        <!-- <img src="/photos/PELLO (53).jpg" alt="Pello" class="inline"/>  --> <!---  Vertical pic, original  --->
+        <img src="/photos/PELLO (53) black_white.jpg" alt="Pello" class="inline"/>  <!---  Vertical pic, black and white  --->
+        <!-- <img src="/photos/PELLO (82).jpg" alt="Pello" class="inline"/> --> <!---  horizontal pic, close face  --->
+        <!-- <a href="{{ site.baseurl }}"> -->
+        <!-- <a href="{{ '/' | relative_url }}"> -->
+        <!-- Add page title -->
+        {{ site.title }} 
+      </h1>
+      
       <!-- Social buttons: twitter, github, linkedin... -->
       <!---  target="_blank": The links pop um in new tabs  --->
       <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
@@ -32,11 +44,11 @@
     <br/>   
 </div>
         
-     <!-- Adding a list of links to the pages of the website -->
+    <!-- Adding a list of links to the pages of the website -->
   
-    <nav class="sidebar-nav">
+    <!-- <nav class="sidebar-nav"> -->
       
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+    <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
 
       <!-- Manual set order -->
       
