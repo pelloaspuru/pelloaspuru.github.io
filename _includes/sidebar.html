@@ -11,38 +11,13 @@
         <!-- <a href="{{ '/' | relative_url }}"> -->
         <!-- Add page title -->
         {{ site.title }} 
+        </a>
       </h1>
-      
-      <!-- p starts a new paragraph -->
       <p class="lead">{{ site.description }}</p>
-      <!-- <p class="lead">{{ -->
-      
-
     
-  <!-- Social buttons: twitter, github, linkedin... -->
-  <!---  target="_blank": The links pop um in new tabs  --->
-  <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
-  <img src="/icons/linkedin.svg" style="float: right;" width="25" height="25" class="filter-gray-light" href="https://www.linkedin.com/in/pelloaspuru" target="_blank" />  
-  <a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style="float: right;" width="25" height="25" class="filter-gray-light"></a>
-
-  </div>    
+    <nav class="sidebar-nav">
       
-  <a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style="float: right;" width="25" height="25" class="filter-gray-light"></a>
-  <a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: right; margin-right: 10px;" width="25" height="25" class="filter-gray-light"></a>
-  <a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: right; margin-right: 10px;" width="25" height="25" class="filter-gray-light"></a>
-  <!---  In the case of the email button, we do not want it to pop up a new tab  --->
-  <a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="float: right; margin-right: 10px;" width="25" height="25" class="filter-gray-light"></a>      
-  <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: right; margin-right: 10px;" width="25" height="25" class="filter-gray-light"></a>    
-  
-  <!---  Blank line  --->
-  <br/>  
-        
-    <!-- Adding a list of links to the pages of the website -->
-  
-    <!-- <nav class="sidebar-nav"> -->
-      
-    <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
       <!-- Manual set order -->
       
       <!-- Links to CV, Google Scholar 
@@ -59,7 +34,6 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -72,12 +46,73 @@
       
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
-
+      
+      <!-- Social buttons: twitter, github, linkedin... -->
+      <!---  target="_blank": The links pop um in new tabs  --->
+      <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
+      <a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style="float: right" width="20" height="20" class="filter-gray-light"></a>
+      <a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      <a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      <!---  In the case of the email button, we do not want it to pop up a new tab  --->
+      <a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>      
+      <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      
       <!-- Social buttons: twitter, github, linkedin... -->
       <!-- {% include social_links.html %} -->
 
-     <!-- Page navigation buttons. -->
-     <!--  </nav> -->
+     </nav>
+    
+    </div>
+  
+  
+     <!-- Adding a list of links to the pages of the website -->
+  
+    <nav class="sidebar-nav">
+      
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+      <!-- Manual set order -->
+      
+      <!-- Links to CV, Google Scholar 
+      <a class="sidebar-nav-item" href="https://mreguant.github.io/papers/reguant_cv_extended.pdfblablabla">CV</a>
+      <!-- <a class="sidebar-nav-item" href="https://scholargoogle.com/citations?user=glc6COYAAAAJ&hl=enblablabla">Google Scholar</i></a> -->
+      
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/categories' | relative_url }}">Categories</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/publication' | relative_url }}">Publication</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/projects' | relative_url }}">Projects</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/about' | relative_url }}">About</a> -->
+
+      <!-- Uncomment for auto order -->
+      <!-- {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %} -->
+
+      
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      
+      <!-- Social buttons: twitter, github, linkedin... -->
+      <!---  target="_blank": The links pop um in new tabs  --->
+      <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
+      <a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style="float: right" width="20" height="20" class="filter-gray-light"></a>
+      <a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      <a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      <!---  In the case of the email button, we do not want it to pop up a new tab  --->
+      <a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>      
+      <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: right; margin-right: 10px;" width="20" height="20" class="filter-gray-light"></a>
+      
+      <!-- Social buttons: twitter, github, linkedin... -->
+      <!-- {% include social_links.html %} -->
+
+     </nav>
   
     <!-- Copyright sign -->
     <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
