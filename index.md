@@ -15,9 +15,9 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-<h1 align="left">
+<h2 align="left">
 Welcome!
-</h1>
+</h2>
 
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
@@ -43,9 +43,9 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  Blank line  --->
 <br/>
 
-<h1 align="left">
+<h2 align="left">
 References
-</h1>
+</h2>
 
 - X
 
@@ -83,9 +83,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <!---  Blank line  --->
 <br/>
 
-<h1 align="left">
+<h2 align="left">
 Work in Progress
-</h1>
+</h2>
 
 - xxxx xxxxxx
 - xxxxx xxxx
@@ -96,9 +96,11 @@ Work in Progress
 <!---  Blank line  --->
 <br/>
 
-<h1 align="left">
+<h2 align="left">
 Teaching
-</h1>
+</h2>
+
+## Teaching
 
 ### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
@@ -109,16 +111,16 @@ Best Teaching assistant award, 2022. <br />
 CEMFI graduate course. <br />
 Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
-### Empirical Methods for the Analysis of the Energy Transition.
+#### Empirical Methods for the Analysis of the Energy Transition.
 CEMFI summer school course. <br />
 Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 <!---  Blank line  --->
 <br/>
 
-<h1 align="left">
+<h2 align="left">
 Policy Work and Others
-</h1>
+</h2>
 
 - xxxxxx
 - xxxxxx
