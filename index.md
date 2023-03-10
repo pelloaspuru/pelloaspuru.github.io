@@ -34,6 +34,8 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!-- [<img src="/icons/github.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://github.com/pelloaspuru) -->
 <a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
+<a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/google.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
+
 <!-- [<img src="/icons/twitter.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://twitter.com/pelloaspuru) -->
 <a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
