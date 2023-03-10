@@ -26,16 +26,16 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
 
 <!-- [<img src="/icons/file-solid.svg" style="float: left; margin-right: 30px;" width="40" height="40">](/documents/CV.pdf) -->
-<a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: left; margin-right: 30px;" width="25" height="25"></a>
+<a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
 <!-- [<img src="/icons/envelope-solid.svg" style="float: left; margin-right: 30px;" width="40" height="40">](mailto:pello.aspuru@cemfi.edu.es) -->
-<a href="mailto:pello.aspuru@cemfi.edu.es" target="_blank"><img src="/icons/envelope-solid.svg" style="float: left; margin-right: 30px;" width="25" height="25"></a>
+<a href="mailto:pello.aspuru@cemfi.edu.es" target="_blank"><img src="/icons/envelope-solid.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
 <!-- [<img src="/icons/github.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://github.com/pelloaspuru) -->
-<a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: left; margin-right: 30px;" width="25" height="25"></a>
+<a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
 <!-- [<img src="/icons/twitter.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://twitter.com/pelloaspuru) -->
-<a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: left; margin-right: 30px;" width="25" height="25"></a>
+<a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
 
 <!-- [<img src="/icons/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/pelloaspuru) -->
 <a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" width="25" height="25"></a>
