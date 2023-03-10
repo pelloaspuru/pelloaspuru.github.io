@@ -15,9 +15,7 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-<h2 align="left">
-Welcome!
-</h2>
+## Welcome!
 
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
@@ -43,18 +41,14 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  Blank line  --->
 <br/>
 
-<h2 align="left">
-References
-</h2>
+## References
 
 - X
 
 <!---  Blank line  --->
 <br/>
 
-<h2 align="left">
-Job Market Paper
-</h2>
+## Job Market Paper
 
 ### xxxx
 
@@ -64,9 +58,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <!---  Blank line  --->
 <br/>
 
-<h2 align="left">
-Working Papers
-</h2>
+## Working Papers
 
 ### xxxx
 
@@ -83,9 +75,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <!---  Blank line  --->
 <br/>
 
-<h2 align="left">
-Work in Progress
-</h2>
+
+## Work in Progress
 
 - xxxx xxxxxx
 - xxxxx xxxx
@@ -95,10 +86,6 @@ Work in Progress
 
 <!---  Blank line  --->
 <br/>
-
-<h2 align="left">
-Teaching
-</h2>
 
 ## Teaching
 
@@ -118,9 +105,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 <!---  Blank line  --->
 <br/>
 
-<h2 align="left">
-Policy Work and Others
-</h2>
+## Policy Work and Others
 
 - xxxxxx
 - xxxxxx
