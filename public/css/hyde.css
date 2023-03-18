@@ -119,7 +119,7 @@ a:focus {
 
 /* Sidebar links */
 .sidebar-about a {
-  color: #fff;
+  color: gray;
   text-decoration: none;
 }
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
