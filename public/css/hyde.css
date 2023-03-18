@@ -135,6 +135,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-title a:hover {
+  color: gray;
   /* text-decoration: underline; */
   text-decoration-color: gold;
 }
@@ -144,6 +145,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .recent-posts a:hover {
+  color: gray;
   /* text-decoration: underline; */
   text-decoration-color: gold;
 }
@@ -153,6 +155,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-tags a:hover {
+  color: gray;
   /*text-decoration: underline; */
   text-decoration-color: gold;
 }
