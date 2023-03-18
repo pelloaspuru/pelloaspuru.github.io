@@ -74,9 +74,11 @@ a {
   /* text-decoration: underline; */
   /*text-decoration-color: gold;*/
 }
+/*
 a strong {
   color: inherit;
 }
+*/
 /* `:focus` is linked to `:hover` for basic accessibility */
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
 a:hover,
