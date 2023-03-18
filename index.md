@@ -29,7 +29,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="float: left; margin-right: 20px;" width="25" height="25" viewBox="0 0 24 24"></a>
 
 <!-- [<img src="/icons/envelope-solid.svg" style="float: left; margin-right: 30px;" width="40" height="40">](mailto:pello.aspuru@cemfi.edu.es) -->
-<a href="mailto:pello.aspuru@cemfi.edu.es" target="_blank"><img src="/icons/envelope-solid.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
+<a href="mailto:pello.aspuru@cemfi.edu.es" target="_blank"><img src="/icons/envelope-solid.svg" style="float: left; margin-right: 20px;" width="25" height="25" viewBox="0 0 48.086 48.09"></a>
 
 <!-- [<img src="/icons/github.svg" style="float: left; margin-right: 30px;" width="40" height="40">](https://github.com/pelloaspuru) -->
 <a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style="float: left; margin-right: 20px;" width="25" height="25"></a>
