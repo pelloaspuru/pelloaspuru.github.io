@@ -122,9 +122,10 @@ a.sidebar-nav-item {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  color: gray;
+  color: green;
+  /*color: gray;*/
   /* text-decoration: underline; */
-  text-decoration-color: gold;
+  /*text-decoration-color: gold; */
 }
 a.sidebar-nav-item:active {
   font-weight: bold;
@@ -135,9 +136,10 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-title a:hover {
-  color: gray;
+  color: green;
+  /*color: gray;*/
   /* text-decoration: underline; */
-  text-decoration-color: gold;
+  /* text-decoration-color: gold; */
 }
 
 /*Recent post titles*/
@@ -145,9 +147,10 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .recent-posts a:hover {
-  color: gray;
+  color: green;
+  /*color: gray;*/
   /* text-decoration: underline; */
-  text-decoration-color: gold;
+  /*text-decoration-color: gold; */
 }
 
 /*Post tags*/
@@ -155,7 +158,8 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-tags a:hover {
-  color: gray;
+  color: green;
+  /*color: gray;*/
   /*text-decoration: underline; */
   text-decoration-color: gold;
 }
