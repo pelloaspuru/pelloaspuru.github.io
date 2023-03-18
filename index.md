@@ -15,7 +15,7 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-# Welcome!
+## Welcome!
 
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
@@ -68,8 +68,6 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  Blank line  --->
 <br/>
 
-# Research
-
 ## Job Market Paper
 
 ### xxxx
@@ -109,7 +107,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <!---  Blank line  --->
 <br/>
 
-# Teaching
+## Teaching
 
 ### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
@@ -127,7 +125,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 <!---  Blank line  --->
 <br/>
 
-# Policy Work and Others
+## Policy Work and Others
 
 - xxxxxx
 - xxxxxx
