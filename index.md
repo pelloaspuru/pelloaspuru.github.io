@@ -21,6 +21,8 @@ I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blan
 
 My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
 
+<a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="display: inline-block; margin-right: 10px;" width="15" height="15" class="filter-gray-dark"></a>
+
 <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="display: inline-block; float: left; margin-right: 10px;" width="15" height="15" class="filter-gray-dark"></a>
 
 <a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="display: inline-block; float: left; margin-right: 10px;" width="15" height="15" class="filter-gray-light"></a>
