@@ -92,6 +92,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  text-decoration: none;
 }
 
 /* About section */
