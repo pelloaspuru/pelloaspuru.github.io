@@ -151,7 +151,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-tags a:hover {
-  text-decoration: underline;
+  /*text-decoration: underline; */
   text-decoration-color: gold;
 }
 
