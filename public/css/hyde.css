@@ -132,6 +132,10 @@ a:focus {
   /*background-color: gold*/
 }
 
+.icon:hover {
+  fill: #DA4567;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
