@@ -33,7 +33,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  Blank line  --->
 <br/>
 
-## References
+### References
 
 - X
 
