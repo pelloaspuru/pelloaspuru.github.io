@@ -82,9 +82,8 @@ a strong {
 */
 /* `:focus` is linked to `:hover` for basic accessibility */
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
-a:hover,
-a:focus {
-  color: gray;
+a:hover{
+  filter: brightness(2.0);
   /*color: gray; */
   /*text-decoration: none;*/
   /* text-decoration-color: gray; */
