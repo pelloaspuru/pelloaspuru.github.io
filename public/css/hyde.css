@@ -122,18 +122,16 @@ a:focus {
   color: gray;
   text-decoration: none;
 }
+
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
+/* Applies to text and icon hyperlinks*/
 a:hover,
 a:focus {
-  filter: brightness(0.5);
+  filter: brightness(2.0);
   /*color: gray; */
   /*text-decoration: none;*/
   /* text-decoration-color: gray; */
   /*background-color: gold*/
-}
-
-.icon:hover {
-  fill: #DA4567;
 }
 
 /* Sidebar nav */
