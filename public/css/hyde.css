@@ -121,7 +121,7 @@ a.sidebar-nav-item {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   text-decoration-color: gold;
 }
 a.sidebar-nav-item:active {
@@ -133,7 +133,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .post-title a:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   text-decoration-color: gold;
 }
 
@@ -142,7 +142,7 @@ a.sidebar-nav-item:active {
   text-decoration: none;
 }
 .recent-posts a:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   text-decoration-color: gold;
 }
 
