@@ -125,7 +125,7 @@ a:focus {
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
 a:hover,
 a:focus {
-  color: white;
+  filter: brightness(0.5);
   /*color: gray; */
   /*text-decoration: none;*/
   /* text-decoration-color: gray; */
