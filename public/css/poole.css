@@ -65,25 +65,29 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+/* a{...} defines the features of hyperlinks that are defined as <a ...></a> in the .md or .html */
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   /*color: #268bd2;*/
   color: #515151;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   /*text-decoration-color: gold;*/
 }
 a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
+/* a hover is when you move the mouse over a hyperlink and it pops up*/
 a:hover,
 a:focus {
   /*text-decoration: none;*/
-  text-decoration-color: gold;
+  text-decoration-color: gray;
   /*background-color: gold*/
 }
 
 /* Headings */
+
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
