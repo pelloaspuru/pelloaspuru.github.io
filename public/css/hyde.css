@@ -117,7 +117,7 @@ a:focus {
   font-size: 3.25rem;
 }
 
-/* Sidebar links */
+/* Sidebar about links */
 .sidebar-about a {
   color: gray;
   text-decoration: none;
@@ -125,7 +125,7 @@ a:focus {
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
 a:hover,
 a:focus {
-  color: pink;
+  color: white;
   /*color: gray; */
   /*text-decoration: none;*/
   /* text-decoration-color: gray; */
