@@ -117,6 +117,21 @@ a:focus {
   font-size: 3.25rem;
 }
 
+/* Sidebar links */
+.sidebar-about a {
+  color: #fff;
+  text-decoration: none;
+}
+/* a hover is when you move the mouse over a hyperlink and it pops up*/
+a:hover,
+a:focus {
+  color: pink;
+  /*color: gray; */
+  /*text-decoration: none;*/
+  /* text-decoration-color: gray; */
+  /*background-color: gold*/
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
