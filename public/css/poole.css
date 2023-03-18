@@ -86,7 +86,7 @@ a:hover,
 a:focus {
   color: gray;
   /*text-decoration: none;*/
-  text-decoration-color: gray;
+  /* text-decoration-color: gray; */
   /*background-color: gold*/
 }
 
