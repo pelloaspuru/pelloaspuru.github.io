@@ -15,7 +15,7 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-## <br/> Welcome!
+## Welcome!
 
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
@@ -40,7 +40,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 <!---  Blank line  --->
 <!--- <br/>  --->
 
-## <br/> Job Market Paper
+## Job Market Paper
 
 ### xxxx
 
