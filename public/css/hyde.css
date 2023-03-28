@@ -95,7 +95,8 @@
 /* Define the standard text */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'RotisSemiSans', sans-serif; 
+  font-weight: bold;
 }
 @media (min-width: 48em) {
   html {
