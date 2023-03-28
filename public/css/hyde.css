@@ -35,8 +35,8 @@
 
 @font-face {
     font-family: "RotisSemiSans";
-    src: url('./fonts/metro_bilbao/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
-    font-weight: sans-serif;
+    src: url('/fonts/metro_bilbao/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
+    font-style: sans-serif;
     /*font-weight: normal; */
 }
 
