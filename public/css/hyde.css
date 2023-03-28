@@ -35,9 +35,30 @@
 
 @font-face {
     font-family: "RotisSemiSans";
+    src: url('/fonts/metro_bilbao/Rotis Semi Sans Std 65 Extra Bold.otf') format('opentype');
+    font-style: sans-serif;
+    font-weight: extra_bold;
+}
+
+@font-face {
+    font-family: "RotisSemiSans";
     src: url('/fonts/metro_bilbao/Rotis Semi Sans Std 65 Bold.otf') format('opentype');
     font-style: sans-serif;
-    /*font-weight: normal; */
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "RotisSemiSans";
+    src: url('/fonts/metro_bilbao/Rotis Semi Sans Std 65 Italic.otf') format('opentype');
+    font-style: sans-serif;
+    font-weight: italic;
+}
+
+@font-face {
+    font-family: "RotisSemiSans";
+    src: url('/fonts/metro_bilbao/Rotis Semi Sans Std 65 Light Italic.otf') format('opentype');
+    font-style: sans-serif;
+    font-weight: italic_light;
 }
 
 /* Define a new type of fonts: CooperHewitt */
