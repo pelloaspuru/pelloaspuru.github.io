@@ -45,7 +45,7 @@
 @font-face {
     font-family: "CooperHewitt";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Heavy.ttf') format('truetype');
-    /*font-style: sans-serif; */
+    font-style: sans-serif;
     font-weight: heavy;
 }
 
@@ -140,6 +140,7 @@ a:focus {
 /* About section */
 
 /* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar */
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
@@ -147,12 +148,13 @@ a:focus {
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
   /*font-family: 'PT Sans', sans-serif; */
-  font-family: 'RotisSemiSans', sans-serif; 
-  font-weight:sans-serif;
+  font-family: 'CooperHewitt', sans-serif; 
+  font-weight: heavy;
   font-size: 3.25rem;
 }
 
 /* Sidebar about links */
+
 .sidebar-about a {
   color: gray;
   text-decoration: none;
