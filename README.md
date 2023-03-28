@@ -65,15 +65,20 @@ Some notes:
 
 ## css
 
-- 
-
 ### hyde.css
+
+hyde.css is the higher-level folder that sets up the global features of the website.
+
+- `@font-face` defines a new type of font.
 - Set `max-width: 70rem;` to change the width of the main page.
 - Set `text-align: justify;` to justify the main text body of the page.
-- Change font of sidebar title in `font-family: 'Abril Fatface', serif;`. Search in fonts.google.com
-- `@font-face` to define a new type of font ??
+- Change `sidebar` and `sidebar-about` characteristics.
+  - header `h1` charateristics: size, font type etc.
+  - links `a` characteristics: color, hover etc.
+  - ...
 
 ### poole.css
+
 - Set `max-width: 50rem;` to widen the main page.
 - Define `.filter-green`, `.filter-gray-light` etc. as filters to change colours of .svg icons.
 
