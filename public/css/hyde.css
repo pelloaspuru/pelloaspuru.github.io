@@ -105,14 +105,16 @@ a:focus {
 }
 
 /* About section */
+
+/* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   /* The following line changes the font type of the website title in the sidebar */
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
-  font-family: 'PT Sans', sans-serif;
-  /*font-family: 'RotisSemiSans';  */
+  /*font-family: 'PT Sans', sans-serif; */
+  font-family: 'RotisSemiSans', sans-serif; 
   font-weight:sans-serif;
   font-size: 3.25rem;
 }
