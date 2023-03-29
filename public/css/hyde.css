@@ -93,6 +93,20 @@
 
 @font-face {
     font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-Medium.ttf') format('truetype');
+    font-style: sans-serif; 
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-MediumItalic.ttf') format('truetype');
+    font-style: sans-serif;
+    font-weight: medium_italic; 
+}
+
+@font-face {
+    font-family: "CooperHewitt";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Book.ttf') format('truetype');
     font-style: sans-serif; 
     font-weight: book;
@@ -110,7 +124,7 @@
 
 html {
   font-family: 'CooperHewitt', sans-serif; 
-  font-weight: book;
+  font-weight: medium;
 }
 @media (min-width: 48em) {
   html {
@@ -173,7 +187,7 @@ a:focus {
   /*background-color: gold*/
 }
 
-/* About section */
+/* Sidebar About section */
 
 /* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar about type */
 
@@ -193,7 +207,7 @@ a:focus {
 
 .sidebar-about p {
   font-family: 'CooperHewitt', sans-serif; 
-  font-weight: heavy;
+  font-weight: medium;
   font-size: 3.25rem;
 }
 
