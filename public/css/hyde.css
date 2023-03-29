@@ -222,8 +222,9 @@ a:focus {
 /* sidebar-about p sets up the characteristics of the paragraph (p) of the sidebar about type */
 
 .sidebar-about p {
-  font-family: 'CooperHewitt', sans-serif; 
-  font-weight: medium;
+  font-family: 'CH_book';
+  font_style: normal; 
+  font-weight: normal;
   font-size: 3.25rem;
 }
 
