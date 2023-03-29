@@ -4,14 +4,6 @@ Built with [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com).
 
 Some notes:
 
-# .idea
-
-- 
-
-# _data
-
-- `social.yml` configures the social media buttons (twitter, linkedin, github etc.)
-
 # _includes
 
 ### archives.html 
