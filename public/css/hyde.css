@@ -175,7 +175,7 @@ a:focus {
 
 /* About section */
 
-/* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar */
+/* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar about type */
 
 .sidebar-about h1 {
   color: #fff;
@@ -184,6 +184,14 @@ a:focus {
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
   /*font-family: 'PT Sans', sans-serif; */
+  font-family: 'CooperHewitt', sans-serif; 
+  font-weight: heavy;
+  font-size: 3.25rem;
+}
+
+/* sidebar-about p sets up the characteristics of the paragraph (p) of the sidebar about type */
+
+.sidebar-about p {
   font-family: 'CooperHewitt', sans-serif; 
   font-weight: heavy;
   font-size: 3.25rem;
