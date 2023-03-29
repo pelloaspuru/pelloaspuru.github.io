@@ -119,6 +119,19 @@
     font-weight: book_italic; 
 }
 
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-Semibold.ttf') format('truetype');
+    font-style: sans-serif; 
+    font-weight: semibold;
+}
+
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-SemiboldItalic.ttf') format('truetype');
+    font-style: sans-serif;
+    font-weight: semibold_italic; 
+}
 
 /* Define the standard text */
 
