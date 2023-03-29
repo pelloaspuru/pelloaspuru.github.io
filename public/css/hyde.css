@@ -64,83 +64,82 @@
 /* Define a new type of fonts: CooperHewitt */
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_heavy";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Heavy.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: heavy;
+    font-style: normal;
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_heavy_itaic";
     src: url('/fonts/cooper_hewitt/CooperHewitt-HeavyItalic.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: heavy_italic; 
+    font-style: normal;
+    font-weight: normal; 
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_bold";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Bold.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: bold;
+    font-style: normal;
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_bold_italic";
     src: url('/fonts/cooper_hewitt/CooperHewitt-BoldItalic.ttf') format('truetype');
-    font-style: sans-serif; 
-    font-weight: bold_italic; 
+    font-style: normal; 
+    font-weight: normal; 
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_medium";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Medium.ttf') format('truetype');
-    font-style: sans-serif; 
-    font-weight: medium;
+    font-style: normal; 
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_medium_italic";
     src: url('/fonts/cooper_hewitt/CooperHewitt-MediumItalic.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: medium_italic; 
+    font-style: normal;
+    font-weight: normal; 
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_book";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Book.ttf') format('truetype');
-    font-style: sans-serif; 
-    font-weight: book;
+    font-style: normal; 
+    font-weight: normal;
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_book_italic";
     src: url('/fonts/cooper_hewitt/CooperHewitt-BookItalic.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: book_italic; 
+    font-style: normal;
+    font-weight: normal; 
 }
 
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_semibold";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Semibold.ttf') format('truetype');
-    font-style: sans-serif; 
-    font-weight: semibold;
+    font-style: normal; 
+    font-weight: normal;
 }
 
-/*
 @font-face {
-    font-family: "CooperHewitt";
+    font-family: "CH_semibold_italic";
     src: url('/fonts/cooper_hewitt/CooperHewitt-SemiboldItalic.ttf') format('truetype');
-    font-style: sans-serif;
-    font-weight: semibold_italic; 
+    font-style: normal;
+    font-weight: normal; 
 }
-*/
+
 
 /* Define the standard text */
 
 html {
-  font-family: 'CooperHewitt';
-  font_style: sans-serif; 
-  font-weight: semibold;
+  font-family: 'CH_book';
+  font_style: normal; 
+  font-weight: normal;
 }
 @media (min-width: 48em) {
   html {
@@ -214,8 +213,9 @@ a:focus {
   /* font-family: 'Abril Fatface', serif; */
   /* font-family: 'Roboto', sans-serif; */
   /*font-family: 'PT Sans', sans-serif; */
-  font-family: 'CooperHewitt', sans-serif; 
-  font-weight: heavy;
+  font-family: 'CH_heavy'; 
+  font-style: normal;
+  font-weight: normal; 
   font-size: 3.25rem;
 }
 
