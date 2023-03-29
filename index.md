@@ -38,7 +38,7 @@ My main interests lie in the fields of industrial organization, energy/environme
 - X
 
 <!---  Blank line  --->
-<!--- <br/>  --->
+<br/>
 
 ## Job Market Paper
 
