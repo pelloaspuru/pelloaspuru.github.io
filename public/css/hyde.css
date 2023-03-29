@@ -73,30 +73,44 @@
 @font-face {
     font-family: "CooperHewitt";
     src: url('/fonts/cooper_hewitt/CooperHewitt-HeavyItalic.ttf') format('truetype');
-    /* font-style: sans-serif; */
+    font-style: sans-serif;
     font-weight: heavy_italic; 
 }
 
 @font-face {
     font-family: "CooperHewitt";
     src: url('/fonts/cooper_hewitt/CooperHewitt-Bold.ttf') format('truetype');
-    /*font-style: sans-serif; */
+    font-style: sans-serif;
     font-weight: bold;
 }
 
 @font-face {
     font-family: "CooperHewitt";
     src: url('/fonts/cooper_hewitt/CooperHewitt-BoldItalic.ttf') format('truetype');
-    /* font-style: sans-serif; */
+    font-style: sans-serif; 
     font-weight: bold_italic; 
+}
+
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-Book.ttf') format('truetype');
+    font-style: sans-serif; 
+    font-weight: book;
+}
+
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/fonts/cooper_hewitt/CooperHewitt-BookItalic.ttf') format('truetype');
+    font-style: sans-serif;
+    font-weight: book_italic; 
 }
 
 
 /* Define the standard text */
 
 html {
-  font-family: 'RotisSemiSans', sans-serif; 
-  font-weight: bold;
+  font-family: 'CooperHewitt', sans-serif; 
+  font-weight: book;
 }
 @media (min-width: 48em) {
   html {
