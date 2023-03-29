@@ -138,8 +138,8 @@
 /* Define the standard text */
 
 html {
-  font-family: 'CooperHewitt', sans-serif; 
-  font-weight: book;
+  font-family: 'RotisSemiSans', sans-serif; 
+  font-weight: bold;
 }
 @media (min-width: 48em) {
   html {
