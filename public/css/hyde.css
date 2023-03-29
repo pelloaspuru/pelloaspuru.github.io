@@ -137,7 +137,7 @@
 
 html {
   font-family: 'CooperHewitt', sans-serif; 
-  font-weight: book_italic;
+  font-weight: book;
 }
 @media (min-width: 48em) {
   html {
