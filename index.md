@@ -107,7 +107,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 
 ---
-<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde). [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) typeface by Chester Jenkins<sub><sup>
+<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde). Cooper Hewitt [typeface](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) by Chester Jenkins<sub><sup>
 
 
 
