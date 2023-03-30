@@ -19,7 +19,9 @@ text-align: justify
 
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 
-My main interests lie in the fields of industrial organization, energy/environmental economics and political economy.
+I work on questions in energy, environmental and political economy issues using tools from empirical industrial organization.
+
+<!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!---  target="_blank": The links pop um in new tabs  --->
