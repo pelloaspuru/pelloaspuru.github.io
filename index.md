@@ -18,7 +18,7 @@ text-align: justify
 ## Welcome!
 <br/>
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
-I work on questions in energy, environmental and political economy issues using tools from empirical industrial organization.
+I work on energy, environmental and political economy issues using tools from empirical industrial organization.
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
@@ -83,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
-Best Teaching assistant award, 2022. <br />
+Best teaching assistant award, 2022. <br />
 
 ### Uncertainty and Information. 
 CEMFI graduate course. <br />
