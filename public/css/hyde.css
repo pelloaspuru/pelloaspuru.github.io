@@ -171,6 +171,9 @@ html {
  */
 
 .sidebar {
+  font-family: 'CH_semibold';
+  font_style: normal; 
+  font-weight: normal;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -222,7 +225,7 @@ a:focus {
 /* sidebar-about p sets up the characteristics of the paragraph (p) of the sidebar about type */
 
 .sidebar-about p {
-  font-family: 'CH_book';
+  font-family: 'CH_semibold';
   font_style: normal; 
   font-weight: normal;
   font-size: 3.25rem;
