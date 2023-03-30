@@ -19,12 +19,14 @@ text-align: justify
 <br/>
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 I work on energy, environmental and political economy issues using tools from empirical industrial organization.
+You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!---  target="_blank": The links pop um in new tabs  --->
 <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
-<a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/google.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style = "display: inline-block; margin-right: 0px;" width="25" height="25" class="filter-gray-dark"></a>
+<!--- <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/google.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style = "display: inline-block; margin-right: 0px;" width="25" height="25" class="filter-gray-dark"></a>
+ --->
 
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
@@ -105,7 +107,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 
 ---
-<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde).<sub><sup>
+<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde). [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) typeface by Chester Jenkins<sub><sup>
 
 
 
