@@ -243,6 +243,9 @@ a:focus {
 .sidebar-about a {
   color: gray;
   text-decoration: none;
+  /* Make link in the sidebar about section to locate in the bottom of the page.*/
+  position: absolute;
+  bottom: 0;
 }
 
 /* a hover is when you move the mouse over a hyperlink and it pops up*/
