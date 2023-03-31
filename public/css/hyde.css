@@ -182,6 +182,7 @@ html {
   background-image: url("../../photos/PELLO (88).jpg");
   background-size: cover;
   background-position: center;
+  linear-gradient(#eb01a5, #d13531); /* W3C */
 }
 @media (min-width: 48em) {
   .sidebar {
