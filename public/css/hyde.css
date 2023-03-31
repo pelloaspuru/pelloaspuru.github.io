@@ -243,12 +243,13 @@ a:focus {
   font_style: normal; 
   font-weight: normal;
   font-size: 3.25rem;
+  color: #eee; /*light gray colour*/
 }
 
 /* Sidebar about links */
 
 .sidebar-about a {
-  color: gray;
+  color: #eee; /*light gray colour*/
   text-decoration: none;
 }
 
