@@ -195,7 +195,7 @@ html {
     left: 0;
     bottom: 0;
     width: 16rem; /* Establishes the width of the left sidebar */
-    /*text-align: right; */
+    text-align: right;
   }
 }
 
