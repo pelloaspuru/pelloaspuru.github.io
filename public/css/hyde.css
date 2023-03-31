@@ -176,8 +176,6 @@ html {
   font-weight: normal;
   text-align: center; /* Centers the sidebar content in the mobile phone version */
   /* text-align: right; */
-    position: absolute; /* Locates the sidebar content in the bottom corner of the sidebar */
-    bottom: 0;
   padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
   color: rgba(255,255,255,.5);
   background-color: #202020;
