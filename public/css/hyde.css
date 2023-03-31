@@ -218,7 +218,7 @@ a:focus {
   /* Make the sidebar about section to locate in the bottom of the page.*/
   position: relative;
   bottom: 0;
-  padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
+  /* padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/ */
 }
 
 /* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar about type */
