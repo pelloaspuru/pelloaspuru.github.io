@@ -174,7 +174,11 @@ html {
   font-family: 'CH_semibold';
   font_style: normal; 
   font-weight: normal;
-  text-align: center;
+  /* text-align: center; */
+  text-align: right;
+    position: bottom;
+    left: 0;
+    bottom: 0;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
@@ -192,7 +196,7 @@ html {
     left: 0;
     bottom: 0;
     width: 16rem; /* Establishes the width of the left sidebar */
-    text-align: right;
+    /*text-align: right; */
   }
 }
 
