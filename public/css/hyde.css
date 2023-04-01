@@ -229,7 +229,6 @@ a:focus {
   .sidebar-about {
     position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
     bottom: 0;
-    padding: 2rem 1rem;
   }
 }
 
