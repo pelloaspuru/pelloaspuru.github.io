@@ -223,6 +223,13 @@ a:focus {
   /*padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
 }
 
+/*@media establishes the website behaviour for desktop browsers*/
+@media (min-width: 50em) {
+  .sidebar-about {
+    position: bottom; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+  }
+}
+
 /* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar about type */
 
 .sidebar-about h1 {
