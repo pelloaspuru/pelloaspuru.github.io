@@ -186,13 +186,13 @@ html {
   background-size: cover;
   background-position: center;
 }
-@media (min-width: 52em) {
+@media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0; 
     left: 0;
     bottom: 0;
-    width: 18rem; /* Establishes the width of the left sidebar */
+    width: 16rem; /* Establishes the width of the left sidebar */
     text-align: right;
   }
 }
