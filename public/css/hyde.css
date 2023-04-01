@@ -226,7 +226,9 @@ a:focus {
 /*@media establishes the website behaviour for desktop browsers*/
 @media (min-width: 50em) {
   .sidebar-about {
-    position: bottom; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    bottom: 0;
+    padding: 2rem 1rem;
   }
 }
 
