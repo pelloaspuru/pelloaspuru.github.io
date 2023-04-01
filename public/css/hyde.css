@@ -189,9 +189,8 @@ html {
 /*@media establishes the website behaviour for desktop browsers*/
 @media (min-width: 50em) {
   .sidebar {
-    position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
-    bottom: 12px;
-    /*
+    position: fixed; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    bottom: 0;
     top: 0; 
     left: 0;
     */
