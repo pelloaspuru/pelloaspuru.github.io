@@ -217,7 +217,7 @@ a:focus {
 .sidebar-about {
   /* Make the sidebar about section to locate in the bottom of the page.*/
   position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
-  bottom: 3px;
+  bottom: 12px;
   /*bottom: 0; 
   /*padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
 }
