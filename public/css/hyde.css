@@ -186,12 +186,15 @@ html {
   background-size: cover;
   background-position: center;
 }
+/*@media establishes the website behaviour for desktop browsers*/
 @media (min-width: 50em) {
   .sidebar {
-    position: fixed;
+    position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    bottom: 12px;
+    /*
     top: 0; 
     left: 0;
-    bottom: 0;
+    */
     width: 20rem; /* Establishes the width of the left sidebar */
     text-align: right;
   }
@@ -216,7 +219,7 @@ a:focus {
 
 .sidebar-about {
   /* Make the sidebar about section to locate in the bottom of the page.*/
-  position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+  position: relative; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
   bottom: 12px;
   /*bottom: 0; 
   /*padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
