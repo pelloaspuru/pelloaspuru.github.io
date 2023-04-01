@@ -215,16 +215,22 @@ a:focus {
 
 /* Sidebar About section */
 
+
 .sidebar-about {
-  /* Make the sidebar about section to locate in the bottom of the page.*/
+  /* Make the sidebar about float in mobile mode.*/
   position: relative; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
-  padding: 6rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
+  padding-top: 16rem;
+  padding-bottom: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-/*@media establishes the website behaviour for desktop browsers*/
+/*@media establishes the behaviour of sidebar-about in desktop mode*/
 @media (min-width: 50em) {
   .sidebar-about {
-    position: fixed; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    /* Make the sidebar about section to locate in the bottom of the page.*/
+    position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
+    bottom: 0;
     padding: 2rem 1rem;
   }
 }
