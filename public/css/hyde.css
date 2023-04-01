@@ -219,7 +219,6 @@ a:focus {
   position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
   bottom: 0;
   padding: 2rem 1rem; /*Sets top and bottom padding at 2rem, left-right padding at 1rem*/
-  transform: translateX(-50%);
 }
 
 /* sidebar-about h1 sets up the characteristics of the highest level header (h1) of the sidebar about type */
