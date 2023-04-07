@@ -193,7 +193,7 @@ html {
     bottom: 0;
     top: 0; 
     left: 0;
-    width: 20rem; /* Establishes the width of the left sidebar */
+    width: 16rem; /* Establishes the width of the left sidebar */
     text-align: right;
   }
 }
