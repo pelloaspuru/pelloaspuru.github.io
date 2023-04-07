@@ -226,7 +226,7 @@ a:focus {
 }
 
 /*@media establishes the behaviour of sidebar-about in desktop mode*/
-@media (min-width: 50em) {
+@media (min-width: 65em) {
   .sidebar-about {
     /* Make the sidebar about section to locate in the bottom of the page.*/
     position: absolute; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
