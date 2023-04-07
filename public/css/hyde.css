@@ -187,7 +187,7 @@ html {
   background-position: center;
 }
 /*@media establishes the website behaviour for desktop browsers*/
-@media (min-width: 50em) {
+@media (min-width: 65em) {
   .sidebar {
     position: fixed; /*relative, sticky, absolute, fixed... check: https://www.w3schools.com/css/css_positioning.asp*/
     bottom: 0;
