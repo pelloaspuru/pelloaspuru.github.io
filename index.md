@@ -41,7 +41,7 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 <!---  Blank line  --->
 <br/>
 
-## Job Market Paper
+## <br/>Job Market Paper
 
 ### xxxx
 
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <!---  Blank line  --->
 <br/>
 
-## Teaching
+## <br/>Teaching
 
 ### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
@@ -98,7 +98,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 <!---  Blank line  --->
 <br/>
 
-## Policy Work and Others
+## <br/>Policy Work and Others
 
 - xxxxxx
 - xxxxxx
