@@ -34,9 +34,12 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 <!---  Blank line  --->
 <br/>
 
-<!--- ### References --->
+### References --->
 
-<!--- - X --->
+- Gerard Llobet
+- Mar Reguant
+- Dmitry Arkhangelsky
+- Gautam Gowrisankaran
 
 <!---  Blank line  --->
 <br/>
@@ -92,10 +95,8 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 ## <br/>Policy Work and Others
 
-- xxxxxx
-- xxxxxx
-- xxxxxx
-- ...
+- Book chapter [Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación](https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/) with Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023
+- Press articles [in Basque](https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html)
 
 
 ---
