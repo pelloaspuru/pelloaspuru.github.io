@@ -34,7 +34,7 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 <!---  Blank line  --->
 <br/>
 
-### References --->
+### References
 
 - Gerard Llobet
 - Mar Reguant
