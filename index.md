@@ -96,11 +96,10 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 ## <br/>Policy Work and Others
 
 - Book chapter [Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación](https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/) with Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.
-- Press articles [in Basque](https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html).
-
+- Press articles <a href="[https://github.com/poole/hyde](https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html)" target="_blank">in Basque</a>.
 
 ---
-<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde). Cooper Hewitt [typeface](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) by Chester Jenkins<sub><sup>
+<sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins<sub><sup>
 
 
 
