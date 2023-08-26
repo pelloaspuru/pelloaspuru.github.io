@@ -36,10 +36,10 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 
 ### References
 
-- Gerard Llobet
-- Mar Reguant
-- Dmitry Arkhangelsky
-- Gautam Gowrisankaran
+- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> 
+- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>
+- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>
+- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>
 
 <!---  Blank line  --->
 <br/>
@@ -56,7 +56,8 @@ In the last decade the cost of clean electricity has plunged. There is no longer
 
 ## Working Papers
 
-### Ballot measures, political advertising and contribution caps (Joint with Cristian Navarro Serrano)
+### Ballot measures, political advertising and contribution caps 
+Joint with Cristian Navarro Serrano
 
 Following the 2010 Citizens United Supreme Court decision, unlimited campaign spending has been permitted for all election types. As a result, there has been a notable increase in campaign contributions for ballot measures, which are a unique form of direct democracy. In this paper, we estimate the causal effect of TV political campaigns on ballot measure outcomes. Using variation in exposure to TV advertising across media markets, our reduced form estimates suggest that a 1 standard deviation increase in the net number of ads of one campaign is associated with an increase of 2.13 to 2.46 p.p. in its net vote share. We define the main features of a structural model that incorporates equilibrium effects and strategic behavior of campaigns. Further work will focus in estimating this structural model to explore counterfactual scenarios with different contribution caps, and other related questions.
 
