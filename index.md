@@ -66,7 +66,6 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 <!---  Blank line  --->
 <br/>
 
-
 ## Work in Progress
 
 - Good and bad discretion in procurement (joint with Juan-José Ganuza and Gerard Llobet)
