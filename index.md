@@ -46,8 +46,7 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 
 ## <br/>Job Market Paper
 
-### Coal in my Backyard. 
-### Local Regulators and the Energy Transition in the US.
+### Coal in my Backyard. Local Regulators and the Energy Transition in the US.
 #### *Draft soon*
 
 Coal used to be the main source of electricity in the US. In the last decade, however, natural gas has emerged as a cleaner and cheaper alternative. In this transitory context, electricity regulators approved coal plant upgrades worth 18 billion dollars. These upgrades allow plants to meet the increasingly demanding environmental regulations, extending their lifetime for years to come. This paper studies these upgrades using both reduced-form and structural methods. The paper finds that regulators are approving these upgrades to protect the local coal mining industry. In doing so, the paper uncovers a novel obstacle to the energy transition: the protection of local industries by local regulators. Absent this channel, the counterfactual estimates finds that 15% of the currently open US coal power plants would have already closed.
