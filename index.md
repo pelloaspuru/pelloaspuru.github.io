@@ -46,11 +46,10 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 
 ## <br/>Job Market Paper
 
-### Coal Mine Bailouts through Abatement Device Investments
-#### Draft
+### Coal in my Backyard. Local Regulators and the Energy Transition in the US.
+#### *Draft soon*
 
-In the last decade the cost of clean electricity has plunged. There is no longer a trade- off between green and cheap energy, and yet, fossil fuels remain an important source of electricity. In this context, studying the non-market forces that are deterring the green transition becomes of first-order importance in order to meet the goals of the Paris Agreement. This paper analyses the installation of pollution abatement devices in US coal power plants. These devices allow the plants to meet sulphur emission standards while burning dirty, locally sourced coal. Moreover, the technology also deters coal plant closures, as it prevents plants from paying the significant transport costs associated to clean coal. Using non-regulated coal plants as a control group, the paper finds that state-level regulators are more likely to approve the installation of pollution abatement devices for those plants that source their coal from in-state mines, which suggests that regulators factor in the protection of local coal jobs when deciding whether to approve these upgrades.
-
+Coal used to be the main source of electricity in the US. In the last decade, however, natural gas has emerged as a cleaner and cheaper alternative. In this transitory context, electricity regulators approved coal plant upgrades worth 18 bilion dollars. These upgrades allow plants to meet the increasingly demanding environmental regulation, extending their lifetime for years to come. This paper studies these upgrades using both reduced-form and structural methods. The paper finds that regulators are approving these upgrades to protect the local coal mining industry. In doing so, the paper uncovers a novel obstacle to the energy transition: the procection of local industries by local regulators. Absent this channel, the counterfactual estimates suggest that 15\% of the currently open US coal power plants would have already closed.
 
 <!---  Blank line  --->
 <br/>
@@ -59,7 +58,7 @@ In the last decade the cost of clean electricity has plunged. There is no longer
 
 ### Ballot measures, political advertising and contribution caps 
 ### joint with Cristian Navarro Serrano
-#### Draft
+#### *Draft soon*
 
 Following the 2010 Citizens United Supreme Court decision, unlimited campaign spending has been permitted for all election types. As a result, there has been a notable increase in campaign contributions for ballot measures, which are a unique form of direct democracy. In this paper, we estimate the causal effect of TV political campaigns on ballot measure outcomes. Using variation in exposure to TV advertising across media markets, our reduced form estimates suggest that a 1 standard deviation increase in the net number of ads of one campaign is associated with an increase of 2.13 to 2.46 p.p. in its net vote share. We define the main features of a structural model that incorporates equilibrium effects and strategic behavior of campaigns. Further work will focus in estimating this structural model to explore counterfactual scenarios with different contribution caps, and other related questions.
 
@@ -79,7 +78,7 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 ### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
-Best teaching assistant award, 2022. <br />
+*Best teaching assistant award, 2022.* <br />
 
 ### Uncertainty and Information. 
 CEMFI graduate course. <br />
