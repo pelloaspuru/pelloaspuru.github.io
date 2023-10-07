@@ -72,12 +72,12 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 
 ## <br/>Teaching
 
-### Regulation and Competition Policy. 
+#### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
 *Best teaching assistant award, 2022.* <br />
 
-### Uncertainty and Information. 
+#### Uncertainty and Information. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
