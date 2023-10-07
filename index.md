@@ -19,7 +19,7 @@ text-align: justify
 <br/>
 I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 I work on energy, environmental and political economy issues using tools from empirical industrial organization.
-You can find my CV <a href="main.pdf" target="_blank">here</a>.
+You can **find my CV <a href="main.pdf" target="_blank">here</a>**.
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
@@ -32,14 +32,13 @@ You can find my CV <a href="main.pdf" target="_blank">here</a>.
 <!-- {% include social_links.html %} -->
 
 <!---  Blank line  --->
-<br/>
 
-##### References
+#### References
 
-- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> *Associate professor with tenure, CEMFI.*
-- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a> *Professor, Northwestern University and BSE.*
-- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a> *Associate professor, CEMFI.*
-- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a> *Professor, Columbia University.*
+- **<a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a>** Associate professor with tenure, CEMFI.
+- **<a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>** Professor, Northwestern University and BSE.
+- **<a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>** Associate professor, CEMFI.
+- **<a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>** Professor, Columbia University.
 
 <!---  Blank line  --->
 <br/>
