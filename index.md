@@ -36,10 +36,10 @@ You can find my CV <a href="main.pdf" target="_blank">here</a>.
 
 ### References
 
-- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> Associate professor with tenure, CEMFI.
-- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a> Professor, Northwestern University and BSE.
-- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a> Associate professor, CEMFI.
-- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a> Professor, Columbia University.
+- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> *Associate professor with tenure, CEMFI.*
+- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a> *Professor, Northwestern University and BSE.*
+- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a> *Associate professor, CEMFI.*
+- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a> *Professor, Columbia University.*
 
 <!---  Blank line  --->
 <br/>
