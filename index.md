@@ -33,7 +33,7 @@ You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
 
 <!---  Blank line  --->
 
-#### References
+*References*
 
 - **<a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a>** Associate professor with tenure, CEMFI.
 - **<a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>** Professor, Northwestern University and BSE.
