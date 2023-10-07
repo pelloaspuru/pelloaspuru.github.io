@@ -36,17 +36,17 @@ You can find my CV <a href="https://www.cemfi.es/" target="_blank">here</a>.
 
 ### References
 
-- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> 
-- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>
-- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>
-- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>
+- <a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a> Associate professor with tenure, CEMFI.
+- <a href="https://mreguant.github.io" target="_blank">Mar Reguant</a> Professor, Northwestern University and BSE.
+- <a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a> Associate professor, CEMFI.
+- <a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a> Professor, Columbia University.
 
 <!---  Blank line  --->
 <br/>
 
 ## <br/>Job Market Paper
 
-### Coal in my Backyard. Local Regulators and the Energy Transition in the US.
+### Delaying the Coal Twilight: Local Interests, Regulatory Distortions and the Energy Transition in the US.
 #### *Draft soon*
 
 Coal used to be the main source of electricity in the US. In the last decade, however, natural gas has emerged as a cleaner and cheaper alternative. In this transitory context, electricity regulators approved coal plant upgrades worth 18 billion dollars. These upgrades allow plants to meet the increasingly demanding environmental regulations, extending their lifetime for years to come. This paper studies these upgrades using both reduced-form and structural methods. The paper finds that regulators are approving these upgrades to protect the local coal mining industry. In doing so, the paper uncovers a novel obstacle to the energy transition: the protection of local industries by local regulators. Absent this channel, the counterfactual estimate finds that 15% of the currently open US coal power plants would have already closed.
