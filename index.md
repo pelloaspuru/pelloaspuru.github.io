@@ -63,7 +63,7 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 <br/>
 
 ## Work in Progress
-
+<br/>
 - Good and bad discretion in procurement. *Joint with Juan-José Ganuza and Gerard Llobet.*
 - Optimal regulation of user-generated content digital platforms
 
@@ -71,17 +71,17 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 <br/>
 
 ## <br/>Teaching
-
-#### Regulation and Competition Policy. 
+<br/>
+##### Regulation and Competition Policy. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
 *Best teaching assistant award, 2022.* <br />
 
-#### Uncertainty and Information. 
+##### Uncertainty and Information. 
 CEMFI graduate course. <br />
 Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
-#### Empirical Methods for the Analysis of the Energy Transition.
+##### Empirical Methods for the Analysis of the Energy Transition.
 CEMFI summer school course. <br />
 Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
@@ -89,7 +89,7 @@ Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 <br/>
 
 ## <br/>Policy Work and Others
-
+<br/>
 - Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. With Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.
 - Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
 
