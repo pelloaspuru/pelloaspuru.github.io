@@ -45,8 +45,8 @@ You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
 
 ## <br/>Working Papers
 
-### Delaying the Coal Twilight: Local Interests, Regulatory Distortions and the Energy Transition in the US.
-##### Job Market Paper *Draft soon*
+##### Delaying the Coal Twilight: Local Interests, Regulatory Distortions and the Energy Transition in the US.
+*Job Market Paper Draft soon*
 
 Coal used to be the main source of electricity in the US. In the last decade, however, natural gas has emerged as a cleaner and cheaper alternative. In this transitory context, electricity regulators approved coal plant upgrades worth 18 billion dollars. These upgrades allow plants to meet the increasingly demanding environmental regulations, extending their lifetime for years to come. This paper studies these upgrades using both reduced-form and structural methods. The paper finds that regulators are approving these upgrades to protect the local coal mining industry. In doing so, the paper uncovers a novel obstacle to the energy transition: the protection of local industries by local regulators. Absent this channel, the counterfactual estimate finds that 15% of the currently open US coal power plants would have already closed.
 
@@ -54,8 +54,8 @@ Coal used to be the main source of electricity in the US. In the last decade, ho
 <!---  Blank line  --->
 <br/>
 
-### Ballot measures, political advertising and contribution caps 
-##### Joint with Cristian Navarro Serrano *Draft soon*
+##### Ballot measures, political advertising and contribution caps 
+*Joint with Cristian Navarro Serrano. Draft soon*
 
 Following the 2010 Citizens United Supreme Court decision, unlimited campaign spending has been permitted for all election types. As a result, there has been a notable increase in campaign contributions for ballot measures, which are a unique form of direct democracy. In this paper, we estimate the causal effect of TV political campaigns on ballot measure outcomes. Using variation in exposure to TV advertising across media markets, our reduced form estimates suggest that a 1 standard deviation increase in the net number of ads of one campaign is associated with an increase of 2.13 to 2.46 p.p. in its net vote share. We define the main features of a structural model that incorporates equilibrium effects and strategic behavior of campaigns. Further work will focus in estimating this structural model to explore counterfactual scenarios with different contribution caps, and other related questions.
 
@@ -64,7 +64,7 @@ Following the 2010 Citizens United Supreme Court decision, unlimited campaign sp
 
 ## Work in Progress
 
-- Good and bad discretion in procurement. Joint with Juan-José Ganuza and Gerard Llobet.
+- Good and bad discretion in procurement. *Joint with Juan-José Ganuza and Gerard Llobet.*
 - Optimal regulation of user-generated content digital platforms
 
 <!---  Blank line  --->
