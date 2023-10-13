@@ -89,9 +89,9 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <dl>
 <dd> <h4> Regulation and Competition Policy </h4> </dd>
 <dl>
-<dd> CEMFI graduate course. </dd> 
-<dd> Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. </dd> 
-<dd> <i> Best teaching assistant award, 2022. </i> </dd>
+<dd> CEMFI graduate course. <br> 
+Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br> 
+<i> Best teaching assistant award, 2022. </i> </dd>
 </dl>
 </dl>
 
