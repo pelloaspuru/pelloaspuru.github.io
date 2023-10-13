@@ -85,18 +85,31 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 ## <br/>Teaching
 <br/>
-- ##### Regulation and Competition Policy. 
-   - CEMFI graduate course. <br />
-   - Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
-   - *Best teaching assistant award, 2022.* <br />
 
-- ##### Uncertainty and Information. 
-   - CEMFI graduate course. <br />
-   - Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
+<dl>
+<dd> <h4> Regulation and Competition Policy </h4> </dd>
+<dl>
+<dd> CEMFI graduate course. </dd> 
+<dd> Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. </dd> 
+<dd> <i> Best teaching assistant award, 2022. </i> </dd>
+</dl>
+</dl>
 
-- ##### Empirical Methods for the Analysis of the Energy Transition.
-   - CEMFI summer school course. <br />
-   - Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
+<dl>
+<dd> <h4> Uncertainty and Information </h4> </dd>
+<dl>
+<dd> CEMFI graduate course. </dd> 
+<dd> Teaching assistant for Professor Guillermo Caruana. Winter 2021. </dd> 
+</dl>
+</dl>
+
+<dl>
+<dd> <h4> Empirical Methods for the Analysis of the Energy Transition </h4> </dd>
+<dl>
+<dd> CEMFI summer school course. </dd> 
+<dd> Teaching assistant for Professor Mar Reguant. Summer 2021. </dd> 
+</dl>
+</dl>
 
 <!---  Blank line  --->
 <br/>
