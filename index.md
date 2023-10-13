@@ -63,7 +63,8 @@ You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
 
 ## Work in Progress
 <br/>
-- Good and bad discretion in procurement. *Joint with Juan-José Ganuza and Gerard Llobet.*
+- Good and bad discretion in procurement
+   - *Joint with Juan-José Ganuza and Gerard Llobet.*
 - Optimal regulation of user-generated content digital platforms
 
 <!---  Blank line  --->
