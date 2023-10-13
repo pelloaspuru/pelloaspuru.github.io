@@ -338,6 +338,15 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
+/*
+ * nobullet
+ *
+ * Define nobullet. A bullet list without bullets (useful of paragraph identation).
+ */
+
+.nobullet li {
+  list-style-type: none;
+}
 
 /*
  * Masthead
