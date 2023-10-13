@@ -4,24 +4,6 @@ title: Home
 text-align: justify
 ---
 
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<style>
-.nobullet {
-    list-style-type: none;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
-
 <!---  Picture on the top of the website  --->
 <p align="center">
    <!--- <img width="300" height=auto src="/photos/PELLO (88).jpg"> ---> <!---  horizontal pic  --->
@@ -54,11 +36,12 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <!---  Blank line  --->
 
 <dd> References
-    
-   - **<a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a>** Associate professor with tenure, CEMFI.
-   - **<a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>** Professor, Northwestern University and BSE.
-   - **<a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>** Associate professor, CEMFI.
-   - **<a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>** Professor, Columbia University.
+    <ul>
+   <li> <strong><a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a></strong> Associate professor with tenure, CEMFI. </li>
+   <li> <strong><a href="https://mreguant.github.io" target="_blank">Mar Reguant</a></strong> Professor, Northwestern University and BSE. </li>
+   <li> <strong><a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a></strong> Associate professor, CEMFI. </li>
+   <li> <strong><a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a></strong> Professor, Columbia University. </li>
+    </ul>
 </dd>
   
 </dl>
