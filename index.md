@@ -19,7 +19,7 @@ text-align: justify
 <br/>
 <dl>
 <dd> I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
-I work on energy, environmental and political economy issues using tools from empirical industrial organization.
+I work on energy, environmental and political economy issues using tools from empirical industrial organization. I will be on the 2023/2024 academic job market. 
 You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
 </dd>
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
