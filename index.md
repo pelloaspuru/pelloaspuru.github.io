@@ -76,11 +76,6 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 ## Work in Progress
 <br/>
-- Good and bad discretion in procurement
-   - *Joint with Juan-José Ganuza and Gerard Llobet.*
-- Optimal regulation of user-generated content digital platforms
-
-
 <dl>
 <dd> 
    <ul>
