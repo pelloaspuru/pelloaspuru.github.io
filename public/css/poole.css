@@ -344,7 +344,7 @@ tbody tr:nth-child(odd) th {
  * Define nobullet. A bullet list without bullets (useful of paragraph identation).
  */
 
-.nobullet li {
+.nobullet {
   list-style-type: none;
 }
 
