@@ -98,16 +98,18 @@ Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
 <dl>
 <dd> <h4> Uncertainty and Information </h4> </dd>
 <dl>
-<dd> CEMFI graduate course. </dd> 
-<dd> Teaching assistant for Professor Guillermo Caruana. Winter 2021. </dd> 
+<dd> CEMFI graduate course. <br> 
+Teaching assistant for Professor Guillermo Caruana. Winter 2021. 
+</dd>
 </dl>
 </dl>
 
 <dl>
 <dd> <h4> Empirical Methods for the Analysis of the Energy Transition </h4> </dd>
 <dl>
-<dd> CEMFI summer school course. </dd> 
-<dd> Teaching assistant for Professor Mar Reguant. Summer 2021. </dd> 
+<dd> CEMFI summer school course. <br> 
+Teaching assistant for Professor Mar Reguant. Summer 2021.
+</dd>
 </dl>
 </dl>
 
@@ -116,6 +118,16 @@ Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
 
 ## <br/>Policy Work and Others
 <br/>
+
+<dl>
+<dd> 
+   <ul>
+   <li>Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. With Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.</li>
+   <li>Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.</li>
+   </ul>
+</dd>
+</dl>
+
 - Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. With Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.
 - Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
 
