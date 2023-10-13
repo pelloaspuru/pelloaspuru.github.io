@@ -17,7 +17,7 @@ text-align: justify
 
 ## <br/>Welcome!
 <br/>
-I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
+- I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 I work on energy, environmental and political economy issues using tools from empirical industrial organization.
 You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
@@ -33,12 +33,12 @@ You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
 
 <!---  Blank line  --->
 
-References
+- References
 
-- **<a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a>** Associate professor with tenure, CEMFI.
-- **<a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>** Professor, Northwestern University and BSE.
-- **<a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>** Associate professor, CEMFI.
-- **<a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>** Professor, Columbia University.
+   - **<a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a>** Associate professor with tenure, CEMFI.
+   - **<a href="https://mreguant.github.io" target="_blank">Mar Reguant</a>** Professor, Northwestern University and BSE.
+   - **<a href="https://sites.google.com/view/dmitry-arkhangelsky/home" target="_blank">Dmitry Arkhangelsky</a>** Associate professor, CEMFI.
+   - **<a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a>** Professor, Columbia University.
 
 <!---  Blank line  --->
 <br/>
@@ -71,18 +71,18 @@ References
 
 ## <br/>Teaching
 <br/>
-##### Regulation and Competition Policy. 
-CEMFI graduate course. <br />
-Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
-*Best teaching assistant award, 2022.* <br />
+- ##### Regulation and Competition Policy. 
+   - CEMFI graduate course. <br />
+   - Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br />
+   - *Best teaching assistant award, 2022.* <br />
 
-##### Uncertainty and Information. 
-CEMFI graduate course. <br />
-Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
+- ##### Uncertainty and Information. 
+   - CEMFI graduate course. <br />
+   - Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br />
 
-##### Empirical Methods for the Analysis of the Energy Transition.
-CEMFI summer school course. <br />
-Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
+- ##### Empirical Methods for the Analysis of the Energy Transition.
+   - CEMFI summer school course. <br />
+   - Teaching assistant for Professor Mar Reguant. Summer 2021. <br />
 
 <!---  Blank line  --->
 <br/>
