@@ -12,6 +12,12 @@ text-align: justify
 }
 </style>
 
+<style>
+.nobullet {
+    list-style-type: none;
+}
+</style>
+
 <div class="green">
     Markdown css styles
 </div>
