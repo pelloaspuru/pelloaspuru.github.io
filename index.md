@@ -35,7 +35,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 <!---  Blank line  --->
 
-<dd> References
+<dd> <h4> References </h4>
     <ul>
    <li> <strong><a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a></strong> Associate professor with tenure, CEMFI. </li>
    <li> <strong><a href="https://mreguant.github.io" target="_blank">Mar Reguant</a></strong> Professor, Northwestern University and BSE. </li>
