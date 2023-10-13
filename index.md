@@ -80,6 +80,17 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
    - *Joint with Juan-José Ganuza and Gerard Llobet.*
 - Optimal regulation of user-generated content digital platforms
 
+
+<dl>
+<dd> 
+   <ul>
+   <li> Good and bad discretion in procurement <br>
+      <i>with Juan-José Ganuza and Gerard Llobet.</i> </li>
+   <li>Optimal regulation of user-generated content digital platforms.</li>
+   </ul>
+</dd>
+</dl>
+
 <!---  Blank line  --->
 <br/>
 
@@ -122,14 +133,13 @@ Teaching assistant for Professor Mar Reguant. Summer 2021.
 <dl>
 <dd> 
    <ul>
-   <li>Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. With Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.</li>
+   <li>Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
+      With Juan-José Ganuza and Gerard Llobet, <br>
+      in Reformas para impulsar la competencia en España, FUNCAS 2023.</li>
    <li>Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.</li>
    </ul>
 </dd>
 </dl>
-
-- Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. With Juan-José Ganuza and Gerard Llobet, in Reformas para impulsar la competencia en España, FUNCAS 2023.
-- Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
 
 ---
 <sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins<sub><sup>
