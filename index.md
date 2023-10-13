@@ -19,7 +19,7 @@ text-align: justify
 <br/>
 - I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
 I work on energy, environmental and political economy issues using tools from empirical industrial organization.
-You can find my **<a href="main.pdf" target="_blank">CV here</a>**.
+You can find my **<a href="resume/pello_resume.pdf" target="_blank">CV here</a>**.
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
