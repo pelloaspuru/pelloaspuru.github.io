@@ -2,12 +2,6 @@
 layout: default
 title: Home
 text-align: justify
-
-<style>
-.nobullet li {
-  list-style-type: none;
-}
-</style>
 ---
 
 <!---  Picture on the top of the website  --->
