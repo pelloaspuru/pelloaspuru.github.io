@@ -4,6 +4,18 @@ title: Home
 text-align: justify
 ---
 
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
+    Markdown css styles
+</div>
+
 <!---  Picture on the top of the website  --->
 <p align="center">
    <!--- <img width="300" height=auto src="/photos/PELLO (88).jpg"> ---> <!---  horizontal pic  --->
