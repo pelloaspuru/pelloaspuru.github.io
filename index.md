@@ -106,7 +106,7 @@ Find teaching evaluations <strong><a href="teaching/2020_21_RCP_TA_evaluation.pd
 <dd> <h4> Uncertainty and Information </h4> </dd>
 <dl>
 <dd> CEMFI graduate course. <br> 
-Teaching assistant for Professor Guillermo Caruana. Winter 2021. 
+Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
 Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf" target="_blank">here</a> </strong>.<br> 
 </dd>
 </dl>
