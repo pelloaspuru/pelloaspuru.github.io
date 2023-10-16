@@ -66,7 +66,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <dl>
 <dd> <h4> Ballot measures, political advertising and contribution caps </h4> </dd>
 <dl>
-<dd> <i> Joint with Cristian Navarro Serrano. </i> <strong><a href="papers/3yearpaper_navarro-1.pdf" target="_blank">Preliminary Draft</a> </strong> </dd>
+<dd> <i>with Cristian Navarro Serrano. </i> <strong><a href="papers/3yearpaper_navarro-1.pdf" target="_blank">Preliminary Draft</a> </strong> </dd>
 <dd> Following the 2010 Citizens United Supreme Court decision, unlimited campaign spending has been permitted for all election types. As a result, there has been a notable increase in campaign contributions for ballot measures, which are a unique form of direct democracy. In this paper, we estimate the causal effect of TV political campaigns on ballot measure outcomes. Using variation in exposure to TV advertising across media markets, our reduced form estimates suggest that a 1 standard deviation increase in the net number of ads of one campaign is associated with an increase of 2.13 to 2.46 p.p. in its net vote share. We define the main features of a structural model that incorporates equilibrium effects and strategic behavior of campaigns. Further work will focus in estimating this structural model to explore counterfactual scenarios with different contribution caps, and other related questions. </dd> 
 </dl>
 </dl>
