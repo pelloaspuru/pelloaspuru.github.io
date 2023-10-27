@@ -53,10 +53,22 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <br/>
 
 <dl>
-<dd> <h4> Delaying the Coal Twilight: Local Interests, Regulatory Distortions and the Energy Transition in the US </h4> </dd>
+<dd> <h4> Delaying the Coal Twilight: Local mines, regulators, and the Energy Transition in the US </h4> </dd>
 <dl>
 <dd> <i> Job Market Paper. </i> <strong><a href="papers/main.pdf" target="_blank">Draft soon</a> </strong> </dd>
-<dd> Coal used to be the main source of electricity in the US. In the last decade, however, natural gas has emerged as a cleaner and cheaper alternative. In this transitory context, electricity regulators approved coal plant upgrades worth 18 billion dollars. These upgrades allow plants to meet the increasingly demanding environmental regulations, extending their lifetime for years to come. This paper studies these upgrades using both reduced-form and structural methods. The paper finds that regulators are approving these upgrades to protect the local coal mining industry. In doing so, the paper uncovers a novel obstacle to the energy transition: the protection of local industries by local regulators. Absent this channel, the counterfactual estimate finds that 15% of the currently open US coal power plants would have already closed. </dd> 
+<dd> Coal is the most polluting source of electricity. Since 2008, the US has witnessed a sharp reduction in
+natural gas prices, a close coal substitute. Nevertheless, coal power plants invested 29 billion dollars in upgrades
+during the same period to remain open in the coming decades. This paper reconciles these two seemingly
+contradictory facts through a novel mechanism: electricity regulators’ protection of local mines. According
+to this mechanism, regulators from mining states encouraged coal plant upgrades. These upgrades, in turn,
+enabled the coal plants to keep procuring coal from the state’s mines. The paper first tests the existence of this
+channel by exploiting quasi-experimental variation. I next introduce a model on coal procurement, power plant
+upgrade, and retirement that formalizes the main tradeoffs of the setup. Estimating the model as a dynamic,
+discrete choice problem yields that electricity regulators are willing to give up 65 dollars of consumer surplus in
+exchange for a 100-dollar increase in local mine revenue. Absent this channel, the total US coal plant capacity
+would have been 9.19 GW lower in 2019. Strikingly, the introduction of a significant carbon tax fails to achieve
+such coal capacity reduction. My counterfactual exercises suggest that subsidizing mine closures is a practical
+and feasible policy to accelerate the energy transition. </dd> 
 </dl>
 </dl>
 
