@@ -53,22 +53,18 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <br/>
 
 <dl>
-<dd> <h4> Delaying the Coal Twilight: Local mines, regulators, and the Energy Transition in the US </h4> </dd>
+<dd> <h4> Delaying the Coal Twilight: Local mines, regulators, and the Energy Transition </h4> </dd>
 <dl>
 <dd> <i> Job Market Paper. </i> <strong><a href="papers/main.pdf" target="_blank">Draft soon</a> </strong> </dd>
-<dd> Coal is the most polluting source of electricity. Since 2008, the US has witnessed a sharp reduction in
-natural gas prices, a close coal substitute. Nevertheless, coal power plants invested 29 billion dollars in upgrades
-during the same period to remain open in the coming decades. This paper reconciles these two seemingly
-contradictory facts through a novel mechanism: electricity regulators’ protection of local mines. According
-to this mechanism, regulators from mining states encouraged coal plant upgrades. These upgrades, in turn,
-enabled the coal plants to keep procuring coal from the state’s mines. The paper first tests the existence of this
-channel by exploiting quasi-experimental variation. I next introduce a model on coal procurement, power plant
-upgrade, and retirement that formalizes the main tradeoffs of the setup. Estimating the model as a dynamic,
-discrete choice problem yields that electricity regulators are willing to give up 65 dollars of consumer surplus in
-exchange for a 100-dollar increase in local mine revenue. Absent this channel, the total US coal plant capacity
-would have been 9.19 GW lower in 2019. Strikingly, the introduction of a significant carbon tax fails to achieve
-such coal capacity reduction. My counterfactual exercises suggest that subsidizing mine closures is a practical
-and feasible policy to accelerate the energy transition. </dd> 
+<dd> Coal is the first source of electricity worldwide, yet it is also the most polluting.
+Since 2008, the US has experienced a sharp reduction in natural gas prices, a close coal substitute.
+However, coal power plants invested 29 billion dollars in upgrades during the same period. 
+This paper aims to reconcile these two seemingly contradictory facts through a novel mechanism: the protection of local mines by electricity regulators.
+Regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
+Coal plant upgrades often translated into higher electricity prices, harming consumer welfare.
+Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial $\text{CO}_2$ emission reductions.
+This paper combines reduced-form and structural estimation methods to quantify this novel mechanism.
+Absent the coal protection channel, the total US coal plant capacity would have been 5\% lower in 2019. </dd> 
 </dl>
 </dl>
 
