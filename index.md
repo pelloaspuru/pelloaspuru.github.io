@@ -62,9 +62,9 @@ However, coal power plants invested 29 billion dollars in upgrades during the sa
 This paper aims to reconcile these two seemingly contradictory facts through a novel mechanism: the protection of local mines by electricity regulators.
 Regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
 Coal plant upgrades often translated into higher electricity prices, harming consumer welfare.
-Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial $\text{CO}_2$ emission reductions.
+Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial CO2 emission reductions.
 This paper combines reduced-form and structural estimation methods to quantify this novel mechanism.
-Absent the coal protection channel, the total US coal plant capacity would have been 5\% lower in 2019. </dd> 
+Absent the coal protection channel, the total US coal plant capacity would have been 5% lower in 2019. </dd> 
 </dl>
 </dl>
 
