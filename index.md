@@ -55,7 +55,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <dl>
 <dd> <h4> Delaying the Coal Twilight: Local mines, regulators, and the Energy Transition </h4> </dd>
 <dl>
-<dd> <i> Job Market Paper. </i> <strong><a href="papers/main.pdf" target="_blank">Draft soon</a> </strong> </dd>
+<dd> <i> Job Market Paper. </i> <strong><a href="papers/main.pdf" target="_blank">Draft</a> </strong> </dd>
 <dd> Coal is the first source of electricity worldwide, yet it is also the most polluting.
 Since 2008, the US has experienced a sharp reduction in natural gas prices, a close coal substitute.
 However, coal power plants invested 29 billion dollars in upgrades during the same period. 
