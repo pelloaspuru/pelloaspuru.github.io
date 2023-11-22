@@ -120,15 +120,6 @@ Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf
 </dl>
 </dl>
 
-<dl>
-<dd> <h4> Empirical Methods for the Analysis of the Energy Transition </h4> </dd>
-<dl>
-<dd> CEMFI summer school course. <br> 
-Teaching assistant for Professor Mar Reguant. Summer 2021.
-</dd>
-</dl>
-</dl>
-
 <!---  Blank line  --->
 <br/>
 
