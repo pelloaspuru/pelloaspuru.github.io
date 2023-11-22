@@ -57,14 +57,13 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <dl>
 <dd> <strong><a href="papers/main.pdf" target="_blank">Job Market Paper</a> </strong> </dd>
 <dd> Coal is the first source of electricity worldwide, yet it is also the most polluting.
-Since 2008, the US has experienced a sharp reduction in natural gas prices, a close coal substitute.
-However, coal power plants invested 29 billion dollars in upgrades during the same period. 
-This paper aims to reconcile these two seemingly contradictory facts through a novel mechanism: the protection of local mines by electricity regulators.
-Regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
+Since 2010, the US has experienced a sharp reduction in natural gas prices, a close coal substitute.
+However, coal power plants invested $29 billion in upgrades between 2008 and 2019. 
+This paper aims to reconcile these two seemingly contradictory facts through a novel mechanism: the protection of local coal mines by electricity regulators.
+According to this mechanism, regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
 Coal plant upgrades often translated into higher electricity prices, harming consumer welfare.
 Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial CO2 emission reductions.
-This paper combines reduced-form and structural estimation methods to quantify this novel mechanism.
-Absent the coal protection channel, the total US coal plant capacity would have been 5% lower in 2019. </dd> 
+This paper combines reduced-form and structural estimation methods to find that, absent the coal protection channel, total US coal plant capacity in 2030 would have been 7% lower by 2030. </dd> 
 </dl>
 </dl>
 
