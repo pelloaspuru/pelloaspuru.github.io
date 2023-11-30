@@ -63,7 +63,7 @@ This paper aims to reconcile these two seemingly contradictory facts through a n
 According to this mechanism, regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
 Coal plant upgrades often translated into higher electricity prices, harming consumer welfare.
 Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial CO2 emission reductions.
-This paper combines reduced-form and structural estimation methods to find that, absent the coal protection channel, total US coal plant capacity in 2030 would have been 7% lower by 2030. </dd> 
+This paper combines reduced-form and structural estimation methods to find that, absent the coal protection channel, total US coal plant capacity in 2030 would have been 7% lower. </dd> 
 </dl>
 </dl>
 
