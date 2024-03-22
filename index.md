@@ -28,7 +28,6 @@ I work on energy, environmental and political economy issues using tools from em
 <!---  style="float: left; margin-right: 30px;": Allows for space between icons  --->
 <!--- <a href="/documents/CV.pdf" target="_blank"><img src="/icons/file-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="mailto:pello.aspuru@cemfi.edu.es"><img src="/icons/envelope-solid.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/github.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://github.com/pelloaspuru" target="_blank"><img src="/icons/google.svg" style= "display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://twitter.com/pelloaspuru" target="_blank"><img src="/icons/twitter.svg" style="display: inline-block; margin-right: 20px;" width="25" height="25" class="filter-gray-dark"></a><a href="https://www.linkedin.com/in/pelloaspuru" target="_blank"><img src="/icons/linkedin.svg" style = "display: inline-block; margin-right: 0px;" width="25" height="25" class="filter-gray-dark"></a>
  --->
-
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
 
