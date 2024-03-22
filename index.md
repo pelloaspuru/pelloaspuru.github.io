@@ -41,10 +41,8 @@ I work on energy, environmental and political economy issues using tools from em
 </dd>
 --->
 </dl>
-
 <!---  Blank line  --->
 <br/>
-
 ## <br/>Working Papers
 <br/>
 
