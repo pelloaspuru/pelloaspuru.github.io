@@ -15,12 +15,11 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-## <br/>Welcome!
+## <br/>Kaixo!
 <br/>
 <dl>
 <dd> I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
-I work on energy, environmental and political economy issues using tools from empirical industrial organization. I will be on the 2023/2024 academic job market. 
-You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
+I work on energy, environmental and political economy issues using tools from empirical industrial organization. You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
 </dd>
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
@@ -35,6 +34,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 <!---  Blank line  --->
 
+<!---
 <dd> <h4> References </h4>
     <ul>
    <li> <strong><a href="https://gllobet.github.io" target="_blank">Gerard Llobet</a></strong> Associate professor with tenure, CEMFI. </li>
@@ -43,6 +43,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
    <li> <strong><a href="https://www.gautamgowrisankaran.com" target="_blank">Gautam Gowrisankaran</a></strong> Professor, Columbia University. </li>
     </ul>
 </dd>
+--->
   
 </dl>
 
