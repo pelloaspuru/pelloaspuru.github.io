@@ -30,7 +30,6 @@ I work on energy, environmental and political economy issues using tools from em
  --->
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
-
 <!---  Blank line  --->
 
 <!---
