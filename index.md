@@ -30,8 +30,6 @@ I work on energy, environmental and political economy issues using tools from em
  --->
 <!-- Social buttons: twitter, github, linkedin... -->
 <!-- {% include social_links.html %} -->
-<!---  Blank line  --->
-
 <!---
 <dd> <h4> References </h4>
     <ul>
@@ -42,7 +40,6 @@ I work on energy, environmental and political economy issues using tools from em
     </ul>
 </dd>
 --->
-  
 </dl>
 
 <!---  Blank line  --->
