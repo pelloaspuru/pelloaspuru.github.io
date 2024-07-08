@@ -15,11 +15,15 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-## <br/>Kaixo!
+## <br/>Ongi Etorri!
 <br/>
 <dl>
-<dd> I am a PhD student in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
-I work on energy, environmental and political economy issues using tools from empirical industrial organization. You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
+<dd> 
+I work on energy, environmental and political economy issues using tools from empirical industrial organization. 
+I just completed my PhD in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
+I am next joining the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> as an Economic Fellow for the 2024-2025 academic year. 
+I will then join the <a href="https://econ.univie.ac.at" target="_blank">Department of Economics at the University of Vienna</a>  as Assistant Professor starting September 2025. 
+You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
 </dd>
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
