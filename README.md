@@ -75,7 +75,7 @@ hyde.css is the higher-level folder that sets up the global features of the webs
 - Define `.filter-green`, `.filter-gray-light` etc. as filters to change colours of .svg icons.
 
 ## _config.yml 
-- changes the sidebar title and subtitle.
+- changes the website tag title and subtitle.
 - Default YAML values establishes the underlying characteristics of each page type.
 
 ## index.md 
