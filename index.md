@@ -21,7 +21,7 @@ text-align: justify
 <dd> 
 I work on energy, environmental and political economy issues using tools from empirical industrial organization. 
 I just completed my PhD in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>.
-I am an Economics Fellow in the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> for the 2024-2025 academic year. 
+I am a Fellow in the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> for the 2024-2025 academic year. 
 I will then join the <a href="https://econ.univie.ac.at" target="_blank">Department of Economics at the University of Vienna</a>  as an Assistant Professor (non-tenure track). 
 You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
 </dd>
