@@ -96,7 +96,7 @@ text-align: justify
   <dt class="indented"><strong><p class="indented" style="margin: 0;">Good and Bad Discretion in Procurement</p></strong></dt>
   <dd class="indented"><p><i>with Juan-José Ganuza and Gerard Llobet.</i></p></dd>
   <dt class="indented"><strong><p class="indented" style="margin: 0;">Optimal Regulation of User-Generated Content Digital Platforms</p></strong></dt>
-  <dd class="indented"><p><i>Master Thesis</i></p></dd>
+  <dd class="indented"><p><i>CEMFI Master Thesis</i></p></dd>
 </dl>
 
 <!---  Blank line  --->
