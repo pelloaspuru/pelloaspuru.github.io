@@ -19,7 +19,7 @@ text-align: justify
 <br/>
 <dl>
 <dd> 
-I am an Economist working on energy, environmental and political economy issues using tools from empirical industrial organization. 
+I am an Economist working on energy, environmental and political economy issues using the empirical industrial organization toolkit. 
 <!-- I just completed my PhD in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>. -->
 I am a Fellow in the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> for the 2024-2025 academic year. 
 I will then join the <a href="https://econ.univie.ac.at" target="_blank">Department of Economics at the University of Vienna</a>  as an Assistant Professor (non-tenure track).
@@ -128,7 +128,7 @@ Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf
 </dl>
 
 ---
-<sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins<sub><sup>
+<sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins.<sub><sup>
 
 
 
