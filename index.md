@@ -63,7 +63,7 @@ text-align: justify
   <dt class="indented">
     <strong><p class="indented" style="margin: 0;">Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</p></strong>
   </dt>
-  <dd class="indented"> <br>
+  <dd class="indented">
     <i>Best paper in regulatory economics, International Industrial Organization Conference 2025.</i> <br>
     <p>
       <a href="papers/main.pdf" target="_blank">Draft</a> |
