@@ -7,7 +7,7 @@ text-align: justify
 <!---  Define the .indented style to call it later  --->
 <style>
 .indented {
-  margin-left: 2em;
+  margin-left: 2.5em;
 }
 </style>
 
@@ -25,13 +25,15 @@ text-align: justify
 <h2>Ongi Etorri!</h2>
 <br/>
 <dl>
-<dd> 
-I am an Economist working on energy, environmental and political economy issues using the empirical industrial organization toolkit. 
-<!-- I just completed my PhD in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>. -->
-I am a Fellow in the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> for the 2024-2025 academic year. 
-I will then join the <a href="https://econ.univie.ac.at" target="_blank">Department of Economics at the University of Vienna</a>  as an Assistant Professor (non-tenure track).
-You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
-</dd>
+  <dd class="indented">
+    I am an Economist working on energy, environmental and political economy issues using the empirical industrial organization toolkit. 
+    <!-- I just completed my PhD in Economics at <a href="https://www.cemfi.es/" target="_blank">CEMFI</a>. -->
+    I am a Fellow in the <a href="https://policyintegrity.org" target="_blank">Institute for Policy Integrity at the NYU School of Law</a> for the 2024-2025 academic year. 
+    I will then join the <a href="https://econ.univie.ac.at" target="_blank">Department of Economics at the University of Vienna</a> as an Assistant Professor (non-tenure track).
+    You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV here</a></strong>.
+  </dd>
+</dl>
+
 <!--  My main interests lie in the fields of industrial organization, energy/environmental economics and political economy. -->
 
 <!-- Social buttons: twitter, github, linkedin... -->
@@ -51,7 +53,6 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
     </ul>
 </dd>
 --->
-</dl>
 <!---  Blank line  --->
 
 <br/>
