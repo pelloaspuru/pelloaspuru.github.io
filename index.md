@@ -127,16 +127,20 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 <h2>Policy Work and Others</h2>
 <br/>
-
 <dl>
-<dd> 
-   <ul>
-   <li>Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
-      With Juan-José Ganuza and Gerard Llobet, <br>
-      in Reformas para impulsar la competencia en España, FUNCAS 2023.</li>
-   <li>Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.</li>
-   </ul>
-</dd>
+  <dd class="indented">
+    <ul>
+      <li>
+        Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
+        Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
+        With Juan-José Ganuza and Gerard Llobet, <br>
+        in <i>Reformas para impulsar la competencia en España</i>, FUNCAS 2023.
+      </li>
+      <li>
+        Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
+      </li>
+    </ul>
+  </dd>
 </dl>
 
 ---
