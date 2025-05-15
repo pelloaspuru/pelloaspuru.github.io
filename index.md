@@ -90,11 +90,11 @@ text-align: justify
 <br/>
 
 <dl>
-  <dt class="indented"><h5 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h5></dt>
+  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h5></p></strong>
   <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
-  <dt class="indented"><h5 class="indented" style="margin: 0;">Good and Bad Discretion in Procurement</h5></dt>
+  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Good and Bad Discretion in Procurement</h5></p></strong>
   <dd class="indented"><p><i>with Juan-José Ganuza and Gerard Llobet.</i></p></dd>
-  <dt class="indented"><h5 class="indented" style="margin: 0;">Optimal Regulation of User-Generated Content Digital Platforms</h5></dt>
+  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Optimal Regulation of User-Generated Content Digital Platforms</h5></p></strong>
   <dd class="indented"><p><i>Master Thesis</i></p></dd>
 </dl>
 
@@ -104,7 +104,7 @@ text-align: justify
 <h3 id="teaching">Teaching</h3>
 <br/>
 <dl>
-  <dt class="indented"><h4 style="margin: 0;">Regulation and Competition Policy</h4></dt>
+  <strong><p class="indented"><h4 style="margin: 0;">Regulation and Competition Policy</h4></p></strong>
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
@@ -113,7 +113,7 @@ text-align: justify
     <i>Best teaching assistant award, 2022.</i>
   </dd>
 
-  <dt class="indented"><h4 style="margin: 0;">Uncertainty and Information</h4></dt>
+  <strong><p class="indented"><h4 style="margin: 0;">Uncertainty and Information</h4></p></strong>
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
