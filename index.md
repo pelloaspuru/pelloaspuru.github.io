@@ -104,7 +104,7 @@ text-align: justify
 <h3 id="teaching">Teaching</h3>
 <br/>
 <dl>
-  <strong><p class="indented"><h4 style="margin: 0;">Regulation and Competition Policy</h4></p></strong>
+  <dt class="indented"><strong><p class="indented" style="margin: 0;">Regulation and Competition Policy</p></strong></dt>
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
@@ -113,7 +113,7 @@ text-align: justify
     <i>Best teaching assistant award, 2022.</i>
   </dd>
 
-  <strong><p class="indented"><h4 style="margin: 0;">Uncertainty and Information</h4></p></strong>
+  <dt class="indented"><strong><p class="indented" style="margin: 0;">Uncertainty and Information</p></strong></dt>
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
