@@ -88,15 +88,15 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <h2>Work in Progress</h2>
 <br/>
 <dl>
-<dd> 
-   <ul>
-   <li> Ballot Measures, Political Advertising, and Contribution Caps <br>
-      <i>with Cristian Navarro Serrano.</i> </li>
-   <li> Good and Bad Discretion in Procurement <br>
-      <i>with Juan-José Ganuza and Gerard Llobet.</i> </li>
-   <li>Optimal Regulation of User-Generated Content Digital Platforms.</li>
-   </ul>
-</dd>
+  <dd class="indented">
+    <ul>
+      <li>Ballot Measures, Political Advertising, and Contribution Caps <br>
+        <i>with Cristian Navarro Serrano.</i></li>
+      <li>Good and Bad Discretion in Procurement <br>
+        <i>with Juan-José Ganuza and Gerard Llobet.</i></li>
+      <li>Optimal Regulation of User-Generated Content Digital Platforms.</li>
+    </ul>
+  </dd>
 </dl>
 
 <!---  Blank line  --->
