@@ -53,7 +53,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 <dl>
 <dd> <h4> Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition </h4> </dd>
-<dl>
+</dl>
 <dd> <p><a href="papers/main.pdf" target="_blank">Draft</a> | <a href="javascript: void(0);" onClick="toggle('abstract_coal')">Abstract</a> | <a href="https://github.com/pelloaspuru/coal" target="_blank">Code</a></p>
 <div id="abstract_coal" style="display:none;"> </dd>
 <dd>
