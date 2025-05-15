@@ -4,6 +4,7 @@ title: Home
 text-align: justify
 ---
 
+<!---  Define the .indented style to call it later  --->
 <style>
 .indented {
   margin-left: 2em;
@@ -144,6 +145,7 @@ Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf
 ---
 <sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins.<sub><sup>
 
+<!---  This is for the Abstract button  --->
 <script>
 function toggle(id) {
   const el = document.getElementById(id);
