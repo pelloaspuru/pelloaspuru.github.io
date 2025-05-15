@@ -70,7 +70,7 @@ This paper combines reduced-form and structural estimation methods to find that,
 <!---  Blank line  --->
 <br/>
 
-## <br/>Work in Progress
+## <h2>Work in Progress<\h2>
 <br/>
 <dl>
 <dd> 
