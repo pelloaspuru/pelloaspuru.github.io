@@ -6,7 +6,7 @@ text-align: justify
 
 <style>
 .indented {
-  margin-left: 1em;
+  margin-left: 2em;
 }
 </style>
 
