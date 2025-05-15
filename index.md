@@ -88,6 +88,17 @@ text-align: justify
 
 <h2>Work in Progress</h2>
 <br/>
+
+<dl>
+  <dt class="indented"><h4 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h4></dt>
+  <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
+  <dt class="indented"><h4 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h4></dt>
+  <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
+  <dt class="indented"><h4 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h4></dt>
+  <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
+</dl>
+
+
 <dl>
   <dd class="indented">
     <ul>
