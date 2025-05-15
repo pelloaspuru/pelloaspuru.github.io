@@ -90,11 +90,11 @@ text-align: justify
 <br/>
 
 <dl>
-  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h5></p></strong>
+  <dt class="indented"><strong><p class="indented"><h5 class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</h5></p></strong></dt>
   <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
-  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Good and Bad Discretion in Procurement</h5></p></strong>
+  <dt class="indented"><strong><p class="indented"><h5 class="indented" style="margin: 0;">Good and Bad Discretion in Procurement</h5></p></strong></dt>
   <dd class="indented"><p><i>with Juan-José Ganuza and Gerard Llobet.</i></p></dd>
-  <strong><p class="indented"><h5 class="indented" style="margin: 0;">Optimal Regulation of User-Generated Content Digital Platforms</h5></p></strong>
+  <dt class="indented"><strong><p class="indented"><h5 class="indented" style="margin: 0;">Optimal Regulation of User-Generated Content Digital Platforms</h5></p></strong></dt>
   <dd class="indented"><p><i>Master Thesis</i></p></dd>
 </dl>
 
