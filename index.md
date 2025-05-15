@@ -4,6 +4,12 @@ title: Home
 text-align: justify
 ---
 
+<style>
+.indented {
+  margin-left: 1em;
+}
+</style>
+
 <!---  Picture on the top of the website  --->
 <p align="center">
    <!--- <img width="300" height=auto src="/photos/PELLO (88).jpg"> ---> <!---  horizontal pic  --->
@@ -52,8 +58,10 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <br/>
 
 <dl>
-  <dt><h4>Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</h4></dt>
-  <dd>
+  <dt class="indented">
+    <h4 class="indented" style="margin: 0;">Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</h4>
+  </dt>
+  <dd class="indented">
     <p>
       <a href="papers/main.pdf" target="_blank">Draft</a> |
       <a href="javascript:void(0);" onclick="toggle('abstract_coal')">Abstract</a> |
@@ -136,7 +144,16 @@ Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf
 ---
 <sup><sub>Built based on <a href="https://github.com/poole/hyde" target="_blank">Hyde Jekyll theme</a>. Cooper Hewitt <a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/" target="_blank">typeface</a> by Chester Jenkins.<sub><sup>
 
-
+<script>
+function toggle(id) {
+  const el = document.getElementById(id);
+  if (el.style.display === "none") {
+    el.style.display = "block";
+  } else {
+    el.style.display = "none";
+  }
+}
+</script>
 
 
 
