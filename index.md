@@ -61,7 +61,7 @@ text-align: justify
 
 <dl>
   <dt class="indented">
-    <h4 class="indented" style="margin: 0;">Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</h4>
+    <strong><p class="indented" style="margin: 0;">Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</p></strong>
   </dt>
   <dd class="indented">
     <p>
