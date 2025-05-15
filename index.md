@@ -104,25 +104,22 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 
 <h2>Teaching</h2>
 <br/>
+<dl>
+  <dt class="indented"><h4 style="margin: 0;">Regulation and Competition Policy</h4></dt>
+  <dd class="indented">
+    CEMFI graduate course. <br>
+    Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
+    Find teaching evaluations <strong><a href="teaching/2020_21_RCP_TA_evaluation.pdf" target="_blank">here</a></strong> and
+    <strong><a href="teaching/2021_22_RCP_TA_evaluation.pdf" target="_blank">here</a></strong>. <br>
+    <i>Best teaching assistant award, 2022.</i>
+  </dd>
 
-<dl>
-<dd> <h4> Regulation and Competition Policy </h4> </dd>
-<dl>
-<dd> CEMFI graduate course. <br> 
-Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br> 
-Find teaching evaluations <strong><a href="teaching/2020_21_RCP_TA_evaluation.pdf" target="_blank">here</a> </strong> and <strong><a href="teaching/2021_22_RCP_TA_evaluation.pdf" target="_blank">here</a></strong>. <br> 
-<i> Best teaching assistant award, 2022. </i> </dd>
-</dl>
-</dl>
-
-<dl>
-<dd> <h4> Uncertainty and Information </h4> </dd>
-<dl>
-<dd> CEMFI graduate course. <br> 
-Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
-Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf" target="_blank">here</a></strong>. <br> 
-</dd>
-</dl>
+  <dt class="indented"><h4 style="margin: 0;">Uncertainty and Information</h4></dt>
+  <dd class="indented">
+    CEMFI graduate course. <br>
+    Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
+    Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf" target="_blank">here</a></strong>.
+  </dd>
 </dl>
 
 <!---  Blank line  --->
