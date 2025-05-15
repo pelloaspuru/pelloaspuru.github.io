@@ -22,7 +22,7 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-<h2>Ongi Etorri!</h2>
+<h2 id="welcome">Ongi Etorri!</h2>
 <br/>
 <dl>
   <dd class="indented">
@@ -56,7 +56,7 @@ text-align: justify
 <!---  Blank line  --->
 
 <br/>
-<h2>Working Papers</h2>
+<h2 id="working-papers">Working Papers</h2>
 <br/>
 
 <dl>
@@ -103,7 +103,7 @@ text-align: justify
 <!---  Blank line  --->
 <br/>
 
-<h2>Teaching</h2>
+<h2 id="teaching">Teaching</h2>
 <br/>
 <dl>
   <dt class="indented"><h4 style="margin: 0;">Regulation and Competition Policy</h4></dt>
@@ -126,7 +126,7 @@ text-align: justify
 <!---  Blank line  --->
 <br/>
 
-<h2>Policy Work and Others</h2>
+<h2 id="policy-work-and-others">Policy Work and Others</h2>
 <br/>
 <dl>
   <dd class="indented">
