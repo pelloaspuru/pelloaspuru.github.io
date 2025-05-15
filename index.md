@@ -15,7 +15,7 @@ text-align: justify
 <!---  Blank line  --->
 <!--- <br/> --->
 
-## <h2>Ongi Etorri!</h2>
+<h2>Ongi Etorri!</h2>
 <br/>
 <dl>
 <dd> 
@@ -48,7 +48,7 @@ You can find my <strong><a href="resume/pello_resume.pdf" target="_blank">CV her
 <!---  Blank line  --->
 
 <br/>
-## <h2>Working Papers</h2>
+<h2>Working Papers</h2>
 <br/>
 
 <dl>
@@ -70,7 +70,7 @@ This paper combines reduced-form and structural estimation methods to find that,
 <!---  Blank line  --->
 <br/>
 
-## <h2>Work in Progress</h2>
+<h2>Work in Progress</h2>
 <br/>
 <dl>
 <dd> 
@@ -87,7 +87,7 @@ This paper combines reduced-form and structural estimation methods to find that,
 <!---  Blank line  --->
 <br/>
 
-## <h2>Teaching</h2>
+<h2>Teaching</h2>
 <br/>
 
 <dl>
@@ -113,7 +113,7 @@ Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf
 <!---  Blank line  --->
 <br/>
 
-## <h2>Policy Work and Others</h2>
+<h2>Policy Work and Others</h2>
 <br/>
 
 <dl>
