@@ -90,7 +90,7 @@ text-align: justify
 <br/>
 
 <dl>
-  <dt class="indented" style="margin: 0;"><strong>Ballot Measures, Political Advertising, and Contribution Caps</strong></dt>
+  <strong><p class="indented" style="margin: 0;">Ballot Measures, Political Advertising, and Contribution Caps</p></strong>
   <dd class="indented"><p><i>with Cristian Navarro Serrano.</i></p></dd>
   <dt class="indented" style="margin: 0;"><strong>Good and Bad Discretion in Procurement</strong></dt>
   <dd class="indented"><p><i>with Juan-José Ganuza and Gerard Llobet.</i></p></dd>
