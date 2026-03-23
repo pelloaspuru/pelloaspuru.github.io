@@ -205,28 +205,32 @@ text-align: justify
 <br/>
 <dl>
   <dd class="indented">
-    <ul>
-      <li>
-        Op-Ed 
-        <a href="https://thehill.com/opinion/energy-environment/5481869-epa-repeal-mercury-standards/" target="_blank">
-          “The EPA’s proposed air standards repeal is a gift to the coal industry”
-        </a>, The Hill. <br>
-        <i>With Bridget Pals, </i> <br>
-        2025.
-      </li>
+    <ul class="indented">
+  <li>
+    Op-Ed 
+    <a href="https://thehill.com/opinion/energy-environment/5481869-epa-repeal-mercury-standards/" target="_blank">
+      “The EPA’s proposed air standards repeal is a gift to the coal industry”
+    </a>, The Hill. <br>
+    <i>With Bridget Pals</i> <br>
+    2025.
+  </li>
 
-      <li>
-        Op-Ed 
-        <a href="https://thehill.com/opinion/energy-environment/5259025-white-house-coal-bailout/" target="_blank">
-          “The road to energy dominance is not paved with coal”
-        </a>, The Hill. <br>
-        <i>With Jennifer Danis, </i> <br>
-        2025.
-      </li>
-      <li>
-        Op-Eds <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
-      </li>
-    </ul>
+  <li>
+    Op-Ed 
+    <a href="https://thehill.com/opinion/energy-environment/5259025-white-house-coal-bailout/" target="_blank">
+      “The road to energy dominance is not paved with coal”
+    </a>, The Hill. <br>
+    <i>With Jennifer Danis</i> <br>
+    2025.
+  </li>
+
+  <li>
+    Op-Eds 
+    <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">
+      in Basque
+    </a>.
+  </li>
+</ul>
   </dd>
 </dl>
 
