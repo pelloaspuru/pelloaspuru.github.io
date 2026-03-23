@@ -159,7 +159,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “Under The Hood”
+      Under The Hood
     </p>
   </strong>
 </dt>
@@ -172,7 +172,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
+      to BOEM on Preparation of Five-Year Offshore Leasing Plan
     </p>
   </strong>
 </dt>
@@ -186,7 +186,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
+      Cost-Benefit Analysis in Offshore Oil and Gas Planning
     </p>
   </strong>
 </dt>
@@ -200,7 +200,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “to DOE on 2024 LNG Export Study”
+      to DOE on 2024 LNG Export Study
     </p>
   </strong>
 </dt>
@@ -214,7 +214,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “Contratación Pública”
+      Contratación Pública en Espana
     </p>
   </strong>
 </dt>
@@ -238,7 +238,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “The EPA’s proposed air standards repeal is a gift to the coal industry”
+      The EPA’s proposed air standards repeal is a gift to the coal industry
     </p>
   </strong>
 </dt>
@@ -252,7 +252,7 @@ text-align: justify
 <dt class="indented">
   <strong>
     <p class="indented" style="margin: 0;">
-      “The road to energy dominance is not paved with coal”
+      The road to energy dominance is not paved with coal
     </p>
   </strong>
 </dt>
