@@ -60,24 +60,16 @@ text-align: justify
 
 <dl>
   <dt class="indented">
-    <strong><p class="indented" style="margin: 0;">Delaying the Coal Twilight: Local Mines, Regulators, and the Energy Transition</p></strong>
+    <strong><p class="indented" style="margin: 0;">Delaying the Energy Transition: Local Regulators, Regulators, and Coal Plant Closure Resistance</p></strong>
   </dt>
   <dd class="indented">
     <i>Best paper in regulatory economics, International Industrial Organization Conference 2025.</i> <br>
     <p>
       <a href="papers/main.pdf" target="_blank">Draft</a> |
-      <a href="javascript:void(0);" onclick="toggle('abstract_coal')">Abstract</a> |
-      <a href="https://github.com/pelloaspuru/coal" target="_blank">Code</a>
+      <a href="javascript:void(0);" onclick="toggle('abstract_coal')">Abstract</a>
     </p>
     <div id="abstract_coal" style="display:none;">
-      <p>Coal is the first source of electricity worldwide, yet it is also the most polluting.
-      Since 2010, the US has experienced a sharp reduction in natural gas prices, a close coal substitute.
-      However, coal power plants invested $29 billion in upgrades between 2008 and 2019. 
-      This paper aims to reconcile these two seemingly contradictory facts through a novel mechanism: the protection of local coal mines by electricity regulators.
-      According to this mechanism, regulators from mining states encouraged coal plant upgrades that enabled the plants to keep procuring from the state's mines.
-      Coal plant upgrades often translated into higher electricity prices, harming consumer welfare.
-      Moreover, the upgrades extended the lifetime of the coal power plants, delaying their replacement and preventing substantial CO2 emission reductions.
-      This paper combines reduced-form and structural estimation methods to find that, absent the coal protection channel, total US coal plant capacity in 2030 would have been 7% lower.</p>
+      <p>I document how electricity regulators protect local coal mines at the expense of higher electricity prices. I focus on the U.S. electricity generation sector over 2008-2019, when demanding environmental regulations and stiff competition forced coal plants to either upgrade or close. Exploiting geographical and institutional variation, I show that regulators approved upgrades primarily to support local mines. Using a dynamic discrete choice model, I evaluate the political feasibility of welfare-improving policies. I show that consumer-to-mine transfers neutralize this distortion, enabling faster coal plant closures and thereby reducing both electricity prices and emissions</p>
     </div>
   </dd>
 </dl>
@@ -129,6 +121,59 @@ text-align: justify
 <dl>
   <dd class="indented">
     <ul>
+      <li>
+        Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
+        Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
+        With Juan-José Ganuza and Gerard Llobet, <br>
+        in <i>Reformas para impulsar la competencia en España</i>, FUNCAS 2023.
+      </li>
+      <li>
+        Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
+      </li>
+    </ul>
+  </dd>
+</dl>
+
+<h3 id="public-engagement">Public Engagement</h3>
+<br/>
+<dl>
+  <dd class="indented">
+    <ul>
+      <li>
+        Policy Report 
+        <a href="https://policyintegrity.org/files/publications/Cars_Hidden_Externalities_Report.pdf" target="_blank">
+          “Under The Hood”
+        </a>. <br>
+        With C. Holt, P. Howard, and J.A. Schwartz, <br>
+        2025.
+      </li>
+
+      <li>
+        Public Comment 
+        <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">
+          “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
+        </a>. <br>
+        With J. Danis and M. Sarinsky, <br>
+        2025.
+      </li>
+
+      <li>
+        Policy Report 
+        <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">
+          “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
+        </a>. <br>
+        With J. Danis and P. Howard, <br>
+        2025.
+      </li>
+
+      <li>
+        Public Comment 
+        <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">
+          “to DOE on 2024 LNG Export Study”
+        </a>. <br>
+        With J. Danis and P. Howard, <br>
+        2025.
+      </li>
       <li>
         Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
         Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
