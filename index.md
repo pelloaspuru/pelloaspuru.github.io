@@ -159,12 +159,12 @@ text-align: justify
         With Juan-José Ganuza and Gerard Llobet, <br>
         in <i>Reformas para impulsar la competencia en España</i>, FUNCAS 2023.
       </li>
-      <li>
-        Press articles <a href="https://www.enpresabidea.eus/autor/pello-aspuru-lopez-munain_19530_115.html" target="_blank">in Basque</a>.
-      </li>
     </ul>
   </dd>
 </dl>
+
+<!---  Blank line  --->
+<br/>
 
 <h3 id="public-engagement">Public Engagement</h3>
 <br/>
