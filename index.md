@@ -169,7 +169,7 @@ text-align: justify
         <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">
           “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
         </a>. <br>
-        <i>With Jennifer Danis and Max Sarinsky, </i>i> <br>
+        <i>With Jennifer Danis and Max Sarinsky, </i> <br>
         2025.
       </li>
       <li>
@@ -177,7 +177,7 @@ text-align: justify
         <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">
           “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
         </a>. <br>
-        <i>With Jennifer Danis and Peter Howard, </i>i> <br>
+        <i>With Jennifer Danis and Peter Howard, </i> <br>
         2025.
       </li>
       <li>
@@ -185,13 +185,13 @@ text-align: justify
         <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">
           “to DOE on 2024 LNG Export Study”
         </a>. <br>
-        <i>With Jennifer Danis and Peter Howard, </i>i> <br>
+        <i>With Jennifer Danis and Peter Howard, </i> <br>
         2025.
       </li>
       <li>
         Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
         Contratación pública en Espańa</a> in Reformas para impulsar la competencia en España <br>
-        <i>With Juan-José Ganuza and Gerard Llobet,<i> <br>
+        <i>With Juan-José Ganuza and Gerard Llobet,</i> <br>
         2023.
       </li>
     </ul>
