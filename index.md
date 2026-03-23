@@ -96,6 +96,41 @@ text-align: justify
 <h3 id="teaching">Teaching</h3>
 <br/>
 <dl>
+  <dt class="indented">
+  <strong>
+    <p class="indented" style="margin: 0;">
+      Empirical Energy and Environmental Economics
+    </p>
+  </strong>
+</dt>
+<dd class="indented">
+  University of Vienna graduate course. <br>
+  Instructor. Winter 2026.
+</dd>
+
+<dt class="indented">
+  <strong>
+    <p class="indented" style="margin: 0;">
+      Applied Economics
+    </p>
+  </strong>
+</dt>
+<dd class="indented">
+  University of Vienna undergraduate course. <br>
+  Instructor. Fall 2025.
+</dd>
+
+<dt class="indented">
+  <strong>
+    <p class="indented" style="margin: 0;">
+      Economics of Market Regulation
+    </p>
+  </strong>
+</dt>
+<dd class="indented">
+  Barcelona School of Economics graduate course. <br>
+  Teaching assistant for Professor Gerard Llobet. Spring 2024.
+</dd>
   <dt class="indented"><strong><p class="indented" style="margin: 0;">Regulation and Competition Policy</p></strong></dt>
   <dd class="indented">
     CEMFI graduate course. <br>
