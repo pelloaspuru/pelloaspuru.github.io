@@ -105,7 +105,7 @@ text-align: justify
 </dt>
 <dd class="indented">
   University of Vienna graduate course. <br>
-  Instructor. Winter 2026.
+  Instructor. Summer 2026.
 </dd>
 
 <dt class="indented">
@@ -117,7 +117,7 @@ text-align: justify
 </dt>
 <dd class="indented">
   University of Vienna undergraduate course. <br>
-  Instructor. Fall 2025.
+  Instructor. Winter 2025.
 </dd>
 
 <dt class="indented">
@@ -135,8 +135,8 @@ text-align: justify
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Gerard Llobet. Fall 2021, 2022. <br>
-    Find teaching evaluations <strong><a href="teaching/2020_21_RCP_TA_evaluation.pdf" target="_blank">here</a></strong> and
-    <strong><a href="teaching/2021_22_RCP_TA_evaluation.pdf" target="_blank">here</a></strong>. <br>
+    <!-- Find teaching evaluations <strong><a href="teaching/2020_21_RCP_TA_evaluation.pdf" target="_blank">here</a></strong> and
+    <strong><a href="teaching/2021_22_RCP_TA_evaluation.pdf" target="_blank">here</a></strong>. <br> -->
     <i>Best teaching assistant award, 2022.</i>
   </dd>
 
@@ -144,7 +144,7 @@ text-align: justify
   <dd class="indented">
     CEMFI graduate course. <br>
     Teaching assistant for Professor Guillermo Caruana. Winter 2021. <br>
-    Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf" target="_blank">here</a></strong>.
+    <!-- Find teaching evaluations <strong><a href="teaching/2020_21_UA_TA_evaluation.pdf" target="_blank">here</a></strong>. -->
   </dd>
 </dl>
 
@@ -161,7 +161,7 @@ text-align: justify
         <a href="https://policyintegrity.org/files/publications/Cars_Hidden_Externalities_Report.pdf" target="_blank">
           “Under The Hood”
         </a>. <br>
-        With C. Holt, P. Howard, and J.A. Schwartz, <br>
+        <i>With Erica Chuang, Peter Howard, and Jason A. Schwartz, </i> <br>
         2025.
       </li>
       <li>
@@ -169,7 +169,7 @@ text-align: justify
         <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">
           “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
         </a>. <br>
-        With J. Danis and M. Sarinsky, <br>
+        <i>With Jennifer Danis and Max Sarinsky, </i>i> <br>
         2025.
       </li>
       <li>
@@ -177,7 +177,7 @@ text-align: justify
         <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">
           “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
         </a>. <br>
-        With J. Danis and P. Howard, <br>
+        <i>With Jennifer Danis and Peter Howard, </i>i> <br>
         2025.
       </li>
       <li>
@@ -185,14 +185,14 @@ text-align: justify
         <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">
           “to DOE on 2024 LNG Export Study”
         </a>. <br>
-        With J. Danis and P. Howard, <br>
+        <i>With Jennifer Danis and Peter Howard, </i>i> <br>
         2025.
       </li>
       <li>
         Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
-        Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
-        With Juan-José Ganuza and Gerard Llobet, <br>
-        in <i>Reformas para impulsar la competencia en España</i>, FUNCAS 2023.
+        Contratación pública en Espańa</a> in Reformas para impulsar la competencia en España <br>
+        <i>With Juan-José Ganuza and Gerard Llobet,<i> <br>
+        2023.
       </li>
     </ul>
   </dd>
