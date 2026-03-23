@@ -116,11 +116,43 @@ text-align: justify
 <!---  Blank line  --->
 <br/>
 
-<h3 id="policy-work-and-others">Policy Work and Others</h3>
+<h3 id="policy-work-and-others">Policy Work</h3>
 <br/>
 <dl>
   <dd class="indented">
     <ul>
+      <li>
+        Policy Report 
+        <a href="https://policyintegrity.org/files/publications/Cars_Hidden_Externalities_Report.pdf" target="_blank">
+          “Under The Hood”
+        </a>. <br>
+        With C. Holt, P. Howard, and J.A. Schwartz, <br>
+        2025.
+      </li>
+      <li>
+        Public Comment 
+        <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">
+          “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
+        </a>. <br>
+        With J. Danis and M. Sarinsky, <br>
+        2025.
+      </li>
+      <li>
+        Policy Report 
+        <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">
+          “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
+        </a>. <br>
+        With J. Danis and P. Howard, <br>
+        2025.
+      </li>
+      <li>
+        Public Comment 
+        <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">
+          “to DOE on 2024 LNG Export Study”
+        </a>. <br>
+        With J. Danis and P. Howard, <br>
+        2025.
+      </li>
       <li>
         Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
         Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
@@ -139,41 +171,6 @@ text-align: justify
 <dl>
   <dd class="indented">
     <ul>
-      <li>
-        Policy Report 
-        <a href="https://policyintegrity.org/files/publications/Cars_Hidden_Externalities_Report.pdf" target="_blank">
-          “Under The Hood”
-        </a>. <br>
-        With C. Holt, P. Howard, and J.A. Schwartz, <br>
-        2025.
-      </li>
-
-      <li>
-        Public Comment 
-        <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">
-          “to BOEM on Preparation of Five-Year Offshore Leasing Plan”
-        </a>. <br>
-        With J. Danis and M. Sarinsky, <br>
-        2025.
-      </li>
-
-      <li>
-        Policy Report 
-        <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">
-          “Cost-Benefit Analysis in Offshore Oil and Gas Planning”
-        </a>. <br>
-        With J. Danis and P. Howard, <br>
-        2025.
-      </li>
-
-      <li>
-        Public Comment 
-        <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">
-          “to DOE on 2024 LNG Export Study”
-        </a>. <br>
-        With J. Danis and P. Howard, <br>
-        2025.
-      </li>
       <li>
         Book chapter <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">
         Contratación pública en Espańa. Los beneficios y los costes de reducir la discrecionalidad de los centros de contratación</a>. <br>
