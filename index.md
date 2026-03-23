@@ -164,9 +164,8 @@ text-align: justify
   </strong>
 </dt>
 <dd class="indented">
-  Policy Report. <br>
+  <a href="https://policyintegrity.org/files/publications/Cars_Hidden_Externalities_Report.pdf" target="_blank">Policy Report</a>, 2025. <br>
   <i>With Erica Chuang, Peter Howard, and Jason A. Schwartz.</i> <br>
-  2025.
 </dd>
 
 <dt class="indented">
@@ -177,10 +176,8 @@ text-align: justify
   </strong>
 </dt>
 <dd class="indented">
-  Public Comment. <br>
+  <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">Public Comment</a>, 2025. <br>
   <i>With Jennifer Danis and Max Sarinsky.</i> <br>
-  2025. <br>
-  <a href="https://policyintegrity.org/documents/Institute_for_Policy_Integrity_Comments_to_the_Bureau_of_Ocean_Energy_Management_on_Preparation_of_Five-Year_Offshore_Leasing_Plan.pdf" target="_blank">Link</a>
 </dd>
 
 <dt class="indented">
@@ -191,10 +188,8 @@ text-align: justify
   </strong>
 </dt>
 <dd class="indented">
-  Policy Report. <br>
+  <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">Policy Report</a>, 2025. <br>
   <i>With Jennifer Danis and Peter Howard.</i> <br>
-  2025. <br>
-  <a href="https://policyintegrity.org/files/publications/BOEM_Methodology_Report_vF.pdf" target="_blank">Link</a>
 </dd>
 
 <dt class="indented">
@@ -205,10 +200,8 @@ text-align: justify
   </strong>
 </dt>
 <dd class="indented">
-  Public Comment. <br>
+  <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">Pubic Comment</a>, 2025. <br>
   <i>With Jennifer Danis and Peter Howard.</i> <br>
-  2025. <br>
-  <a href="https://policyintegrity.org/projects/update/comments-to-doe-on-2024-lng-export-study" target="_blank">Link</a>
 </dd>
 
 <dt class="indented">
@@ -219,10 +212,8 @@ text-align: justify
   </strong>
 </dt>
 <dd class="indented">
-  Book chapter in <i>Reformas para impulsar la competencia en España</i>. <br>
-  <i>With Juan-José Ganuza and Gerard Llobet.</i> <br>
-  2023. <br>
-  <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Link</a>
+  <a href="https://www.funcas.es/articulos/contratacion-publica-en-espana-los-beneficios-y-los-costes-de-reducir-la-discrecionalidad-de-los-centros-de-contratacion/" target="_blank">Book Chapter</a> in <i>Reformas para impulsar la competencia en España</i>, 2023 <br>
+  <i>With Juan-José Ganuza and Gerard Llobet.</i> <br>  
 </dd>
 
 </dl>
