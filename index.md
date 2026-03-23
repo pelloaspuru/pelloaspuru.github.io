@@ -60,7 +60,7 @@ text-align: justify
 
 <dl>
   <dt class="indented">
-    <strong><p class="indented" style="margin: 0;">Delaying the Energy Transition: Local Regulators, Regulators, and Coal Plant Closure Resistance</p></strong>
+    <strong><p class="indented" style="margin: 0;">Delaying the Energy Transition: Local Regulators, Mines, and Coal Plant Closure Resistance</p></strong>
   </dt>
   <dd class="indented">
     <i>Best paper in regulatory economics, International Industrial Organization Conference 2025.</i> <br>
