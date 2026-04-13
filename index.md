@@ -69,7 +69,7 @@ text-align: justify
       <a href="javascript:void(0);" onclick="toggle('abstract_coal')">Abstract</a>
     </p>
     <div id="abstract_coal" style="display:none;">
-      <p>I document how electricity regulators protect local coal mines at the expense of higher electricity prices. I focus on the U.S. electricity generation sector over 2008-2019, when demanding environmental regulations and stiff competition forced coal plants to either upgrade or close. Exploiting geographical and institutional variation, I show that regulators approved upgrades primarily to support local mines. Using a dynamic discrete choice model, I evaluate the political feasibility of welfare-improving policies. I show that consumer-to-mine transfers neutralize this distortion, enabling faster coal plant closures and thereby reducing both electricity prices and emissions</p>
+      <p>I document how electricity regulators protect local coal mines at the expense of higher electricity prices. I focus on the U.S. electricity generation sector over 2008-2019, when new environmental standards and stiff competition forced coal plants to either upgrade or close. Exploiting geographical and institutional variation, I show that regulators approved upgrades primarily to support local mines. Using a dynamic discrete choice model, I evaluate the political feasibility of welfare-improving policies. I show that consumer-to-mine transfers neutralize this distortion, enabling faster coal plant closures and thereby reducing both electricity prices and emissions</p>
     </div>
   </dd>
 </dl>
